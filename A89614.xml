@@ -1,0 +1,872 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hosannah: a Thanksgiving-sermon, June 28th. 1660. By J. M. Presb. Anglic.</title>
+            <author>Martin, John, 1619-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89614</idno>
+            <idno type="STC">Wing M842</idno>
+            <idno type="STC">Thomason E184_4</idno>
+            <idno type="STC">ESTC R4777</idno>
+            <idno type="EEBO-CITATION">99872721</idno>
+            <idno type="PROQUEST">99872721</idno>
+            <idno type="VID">125167</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125167)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E184[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hosannah: a Thanksgiving-sermon, June 28th. 1660. By J. M. Presb. Anglic.</title>
+                  <author>Martin, John, 1619-1693.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall, for Rich. Davis,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed Io. Martin.</note>
+                  <note>A sermon printed, but never preached owing to a lack of a pulpit. Cf. Madan.</note>
+                  <note>Annotation on Thomason copy: "Octob 22"; "Jo Martin" is written beneath 'By J. M.' on title.</note>
+                  <note>Title page has printers' device (McK. 427).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXVIII, 22-25 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125167:1" rendition="simple:additions"/>
+            <p>HOSANNAH: A Thanksgiving-Sermon, <hi>J<g ref="char:V">Ʋ</g>NE</hi> 28<hi rend="sup">th.</hi> 1660.</p>
+            <p>By <hi>J. M. Presb. Anglic.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>S. Ignat. Ep. ad Philad.</bibl>
+            </q>
+            <figure>
+               <head>ACADEMIA OXONIE<g ref="char:cmbAbbrStroke">̄</g>SIS</head>
+               <figDesc>seal of Oxford University</figDesc>
+            </figure>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>H. Hall,</hi> for <hi>Rich. Davis,</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:125167:2"/>
+            <pb facs="tcp:125167:2"/>
+            <head>TO THE Right Reverend Father in GOD, BRIAN LORD BISHOP of <hi>SAR<g ref="char:V">Ʋ</g>M.</hi>
+            </head>
+            <opener>
+               <salute>Right Reverend Father in God,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T was once the complaint of the</hi> Sons <hi>of the</hi> Prophets, that the place wherein they dwelt was too ſtreight for them. <hi>The</hi> Prophets <hi>of the</hi> Church of England <hi>have for divers years, like a kind of</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>had room enough to</hi> wander about in, <hi>though little e<g ref="char:EOLhyphen"/>nough to</hi> dwel <hi>in. Yet I beleive they never miſs'd their</hi> houſes <hi>ſo much as they did their</hi> Pulpits <hi>on the 28th. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> June. <hi>This made me take the</hi>
+               <pb facs="tcp:125167:3"/>Preſſe <hi>for my</hi> Pulpit, <hi>and (by a very eaſie con<g ref="char:EOLhyphen"/>verſion) my</hi> Readers <hi>for my</hi> Auditors: <hi>for my Lord,</hi> if we ſhould hold our peace, the ſtones would immediately cry out.</p>
+            <p>
+               <hi>I preſent this</hi> Sermon <hi>to your Lordſhip, not for any</hi> confidence <hi>I have of the</hi> worth <hi>of it</hi> (<hi>for I know my</hi> own ſize <hi>well enough</hi>) <hi>but to account with your Lordſhip for the</hi> duty <hi>I owe you, as your</hi> Curate of Soules. <hi>I have</hi> this <hi>then to adde to the</hi> greatning of your joy in the day of Re<g ref="char:EOLhyphen"/>compences, <hi>that as I have,</hi> by the grace of God, <hi>through all the</hi> intrigues <hi>of the late</hi> Julian <hi>dayes, faithfully kept your</hi> depoſitum <hi>down to theſe very</hi> times of the Reſtitution of all things, <hi>ſo was it the good pleaſure of God to pitch upon that</hi> little flock, <hi>for ſuch</hi> Sacrifices <hi>as were</hi> ready to be offered up for the teſtimony of a good conſcience.</p>
+            <p>
+               <hi>My Lord, the</hi> inſolence <hi>of this</hi> addreſs, <hi>will hereafter receive an</hi> alloy, <hi>even in your Lord<g ref="char:EOLhyphen"/>ſhips own judgement, when you ſhall be inform'd of your Lordſhips more</hi> individuall <hi>concern<g ref="char:EOLhyphen"/>ments upon this Author, who is,</hi>
+            </p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>t Servant, <hi>IO. MARTIN.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:125167:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 118.</hi>
+                  </bibl>
+                  <p n="22">
+                     <hi>22.</hi> The ſtone which the builders refuſed, is become the head ſtone of the corner.</p>
+                  <p n="23">
+                     <hi>23.</hi> This is the Lords doing, it is marvellous in our eyes.</p>
+                  <p n="24">
+                     <hi>24.</hi> This is the day the Lord hath made: we will re<g ref="char:EOLhyphen"/>joi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce, and be glad in it.</p>
+                  <p n="25">
+                     <hi>25.</hi> Save now, I beſeech thee, O Lord; O Lord, I be<g ref="char:EOLhyphen"/>ſeech thee, ſend thou proſperity.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N <hi>Iſa.</hi> 61. one of the great <hi>changes</hi> which the <hi>Lords, Anointed</hi> ſhould make at his <hi>coming,</hi> was; <hi>that he ſhould appoint unto them that mourn in Sion, the garment of praiſe, for the spirit of heavineſs,</hi> v. 3. This <hi>Pſalme</hi> is that <hi>garment of praiſe,</hi> a <hi>garment of praiſe</hi> delivered out of Gods <hi>Wardrobe;</hi> for his Church, and people to rejoice in, upon two very remarkable occaſions. Firſt, for the people of the <hi>Jews,</hi> when their <hi>Civill Wars</hi> were at an end; the <hi>two</hi> great <hi>Factions,</hi> managed by <hi>Abner,</hi> and <hi>Joab; this,</hi> for <hi>David; that,</hi> for the houſe of <hi>Saul;</hi> being fairly, and unanimouſly complyed, in the <hi>ſol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> eſtabliſhment of <hi>David</hi> over the whole Kingdome of <hi>Iſrael.</hi> Upon that <hi>conjuncture</hi> it was, that this <hi>Pſalme</hi> was firſt compoſed, and this <hi>garment of praiſe</hi> beſtowed upon his Subjects by <hi>David,</hi> the <hi>Lord's Anointed,</hi> and the <hi>Inſpired</hi> Pen-man of this <hi>Pſalm.</hi> But yet the <hi>wr<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſide</hi> of this <hi>garment of praiſe,</hi> (as I may
+<pb n="2" facs="tcp:125167:4"/>ſpeak) was by them worn <hi>outward:</hi> for <hi>it</hi> belong'd to them (the <hi>Iews</hi>) only <hi>typically,</hi> and <hi>literally:</hi> the <hi>propheticall</hi> and <hi>hidden</hi> part thereof, being a <hi>myſterie to be reveal'd, in the ages then for to come.</hi> Which were</p>
+            <p>That <hi>ſecond,</hi> and more <hi>admirable</hi> occaſion of <hi>putting-on</hi> this <hi>garment of praiſe;</hi> and that was at the <hi>Inauguration</hi> of our bleſſed <hi>Saviour,</hi> when <hi>he aſcended up on high, led capti<g ref="char:EOLhyphen"/>vity captive,</hi> and ſate him down on that Throne, whereon he ſhall rule, <hi>till he hath put all his enemies under his feet,</hi> For <hi>this,</hi> the whole Church of Chriſt is deck'd with this <hi>garment of praiſe,</hi> upon <hi>Eaſter,</hi> and <hi>Aſcenſion</hi> day; on the former whereof, the <hi>Church</hi> hath appointed this Pſalme to be <hi>read,</hi> or <hi>ſung</hi> in her <hi>publique ſervice.</hi> To this occaſion you ſee the Pſalme referres in the <hi>Antitype,</hi> and ſo our Saviour is pleaſed to interpret it, by applying part of my Text unto himſelf, <hi>Mat.</hi> 21.42. <hi>Did you never read in the Scriptures, The ſtone which the builders rejected, the ſame is become, &amp;c?</hi> And ſo St. <hi>Peter</hi> twice; once in <hi>Act.</hi> 4.11. and a ſecond time in his 1 <hi>Ep.</hi> c. 2.4.</p>
+            <p>
+               <hi>This</hi> being the greateſt <hi>conjuncture,</hi> that ever did, or ſhould happen in the world; namely, the uniting of the Jew and Gentile, into <hi>one, holy, Catholique Church,</hi> under <hi>Chriſt</hi> their <hi>head;</hi> and typified by the uniting of <hi>Judah</hi> and <hi>Iſrael,</hi> un<g ref="char:EOLhyphen"/>der <hi>David</hi> their King, was the moſt ſolemne, and proper time for this <hi>garment of praiſe</hi> to be worn; the <hi>right-ſide</hi> thereof being now diſplayed; and the <hi>ſolid</hi> deſignations in the curious <hi>needle-work</hi> of <hi>this</hi> garment, eaſily diſcernable through the <hi>myſterious</hi> contrivances of <hi>Ceremoniall,</hi> and <hi>Hi<g ref="char:EOLhyphen"/>ſtoricall</hi> adumbrations.</p>
+            <p>Here's now a <hi>third</hi> occaſion, to make uſe of this <hi>garment of praiſe;</hi> and that's for <hi>us; us,</hi> the <hi>Churches</hi> and <hi>people</hi> of <hi>three</hi> great Kingdoms: <hi>we,</hi> who have for ſo long time, lan<g ref="char:EOLhyphen"/>guiſh'd under <hi>the ſpirit of heavyneſs,</hi> may <hi>now,</hi> upon the <hi>coming</hi> of the <hi>Lords Anointed,</hi> boldly put on (I preſume) this <hi>garment of praiſe.</hi> For <hi>firſt,</hi> by the <hi>perfume</hi> and <hi>ſmell</hi> thereof, I cannot think, but it belongs to us: <hi>Iſaac</hi> knew
+<pb n="3" facs="tcp:125167:4"/>his ſon <hi>Eſau's</hi> rayment, by the ſweet ſavour of it, <hi>Gen.</hi> 27. and ſo may <hi>this garment</hi> be known, out of whoſe <hi>Wardrobe</hi> it came, and to whom it belongs, it ſmels ſo ſtrongly of <hi>Myrrh, Aloes,</hi> and <hi>Caſſia,</hi> Pſal. 45. <hi>bitter</hi> things; the beſt <hi>perfume</hi> for the <hi>robes</hi> of the Church; who, as Chriſt her <hi>Head,</hi> muſt be <hi>beautified</hi> and <hi>perfected by ſufferings. This garment</hi> then hath been <hi>perfum'd</hi> with afflictions, and there<g ref="char:EOLhyphen"/>fore ſorts well with us. And then, 'tis very <hi>fit</hi> for <hi>us;</hi> for <hi>us,</hi> on <hi>this</hi> occaſion, the <hi>coming</hi> of the <hi>Lords Anointed,</hi> and the <hi>uniting</hi> his people under his Government. Be pleas'd to <hi>put it on</hi> with me in this <hi>Text,</hi> and you ſhall then ſee, how <hi>well it ſits;</hi> for the <hi>Text</hi> is but the <hi>Analyſis</hi> of the Pſalme, and is (as I may ſpeak) a Pſalme in a Pſalme; containing in breif, the whole matter of the Pſalme in theſe four verſes; which are as ſo many <hi>quarters</hi> of <hi>this garment of praiſe,</hi> and which we ſhall, in their <hi>turn, put on,</hi> without making any <hi>rent,</hi> or <hi>diviſion</hi> thereof, or <hi>cracking</hi> ſo much as a <hi>ſtitch</hi> therein, by any <hi>ſtrein'd</hi> and <hi>forc'd</hi> Application.</p>
+            <p>Firſt then, here is <hi>mirandum;</hi> then, <hi>mirandi admiratio;</hi> next, <hi>admirationis ſolennitas;</hi> and laſtly, <hi>ſolennitatis cele<g ref="char:EOLhyphen"/>bratio.</hi>
+            </p>
+            <p n="1">1. Firſt, here is <hi>mirandum,</hi> ſomewhat that did not ordi<g ref="char:EOLhyphen"/>narily come to paſs; nay a thing <hi>extraordinary</hi> and <hi>marvel<g ref="char:EOLhyphen"/>lous</hi> it was; and that is, <hi>The ſtone which the builders refuſed, is become the head-ſtone of the corner.</hi> v. 22.</p>
+            <p n="2">2. Secondly, here is <hi>mirandi admiratio,</hi> mens admiring and wondering at it; notice was every where, by every one, ta<g ref="char:EOLhyphen"/>ken of it, as a thing, wherein God had a very ſpeciall hand, <hi>This is the Lords doing;</hi> or, <hi>this is from the Lord, it is mar<g ref="char:EOLhyphen"/>vellous in our eyes.</hi> v. 23.</p>
+            <p n="3">3. Thirdly, here is <hi>admirationis ſolennitâs;</hi> a ſolemne, and fit manner of expreſſing this <hi>admiration,</hi> with reſpect unto <hi>due</hi> circumſtances; not barely to <hi>wonder</hi> at it, and no more; <hi>to wonder and periſh,</hi> as they in the <hi>Acts;</hi> to <hi>wonder,</hi> and give God no glory, for working this <hi>wonder;</hi> but, a ſet time ap<g ref="char:EOLhyphen"/>pointed, for making mans <hi>wondering</hi> to end in the glorifying
+<pb n="4" facs="tcp:125167:5"/>of God; publique, prefixt, nationall bleſſing of God, and rejoycing in a publique place, at a publique time, a <hi>day</hi> for it, and a <hi>congregation</hi> on that day; <hi>this day,</hi> and <hi>we. This is the day the Lord hath made, we will rejoyce and be glad in it.</hi> v. 24.</p>
+            <p n="4">4. Laſtly, here is <hi>ſolennitatis celebratio,</hi> the celebrating, or keeping this ſolemnity, as it ought to be kept, with <hi>praiſe</hi> and <hi>prayer,</hi> nay with a <hi>ſet form</hi> of praiſe, and with a <hi>ſet form</hi> of prayer; not in ſuch a manner as <hi>every</hi> man pleaſeth; as though there <hi>were no King in Iſrael;</hi> or <hi>ſuch</hi> a King, as had no care of the Church; but celebrated it muſt be with <hi>Ho<g ref="char:EOLhyphen"/>ſannah's,</hi> the <hi>uſuall</hi> manner of celebrating praiſe amongſt the <hi>Jews, Pſal.</hi> 20. <hi>Mat.</hi> 21. as are <hi>Te Deum's</hi> amongſt <hi>Chri<g ref="char:EOLhyphen"/>ſtians:</hi> and a <hi>form</hi> of prayer, for continuing and inlarging this mercy <hi>[O Lord, I beſeech thee, ſend now proſperity]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, quick, earneſt prayer, the pattern of the <hi>Antiphones</hi> in our <hi>Liturgie;</hi> the choiceſt part of all, and therefore the Devill <hi>ſhoots moſt of his arrows againſt it,</hi> even <hi>bitter words,</hi> [<hi>O Lord, ſhow thy mercy upon us, O Lord, ſave the King,</hi> &amp;c.] perfectly reſembling <hi>theſe</hi> of the Text, <hi>Save now, I beſeech thee, O Lord; O Lord, I beſeech thee, ſend now proſperity,</hi> v. 25.</p>
+            <p>Be pleas'd to try the firſt <hi>quarter</hi> of this <hi>garment of praiſe,</hi> and if that <hi>fits,</hi> there's no fear of the other <hi>three. The ſtone which the builders r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fuſed, the ſame is become the head<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtone of the corner.</hi> The <hi>mirandum,</hi> or thing to be wondered at.</p>
+            <p n="1">1. The manner of expreſſion is clearly <hi>parabolicall</hi> (and, as I conceive, <hi>proverbiall</hi> too) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in ſpeaking plain<g ref="char:EOLhyphen"/>ly it ſignifies, <hi>the unlook'd for, and unhop'd for promotion of a perſon, to a place of greateſt truſt and dignity.</hi> Such was that of <hi>David</hi> unto the government of all <hi>Iſrael;</hi> being not on<g ref="char:EOLhyphen"/>ly <hi>taken from following the Ewes great with young,</hi> Pſal. 78.71. and ſo a great <hi>change</hi> made, when his <hi>Shepherds crooke</hi> was turn'd to a <hi>Regall Scepter,</hi> but compaſſed about with e<g ref="char:EOLhyphen"/>nemies on every ſide; <hi>hunted as a partridge upon the moun<g ref="char:EOLhyphen"/>tains,</hi> where little, or nothing of <hi>covert,</hi> and <hi>ſhelter</hi> could
+<pb n="5" facs="tcp:125167:5"/>be had to ſecure him: the whole <hi>houſe</hi> of <hi>Saul,</hi> and all the <hi>dependents</hi> thereon, and <hi>adherents</hi> thereto, to be layd aſide, e're the thing could be brought to paſs. <hi>Tantae molis erat</hi>— ſo very great a difficulty, that there was little, or no proba<g ref="char:EOLhyphen"/>bility, that a <hi>ſtone by the builders</hi> (with reaſon enough as <hi>they,</hi> and a world of others, thought) <hi>refuſed,</hi> ſhould in deſpight of all oppoſition, <hi>become the head ſtone of the corner.</hi> Yet thus it was in the iſſue, and the difficulty of effecting it, made the thing, when done, the more remarkable.</p>
+            <p>Such likewiſe was the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Gods exalting of Chriſt, <hi>Phil.</hi> 2. who by taking upon him our humane nature, and the infirmities thereof (ſin onely excepted) and <hi>being found in the form of a ſervant,</hi> and ſo nothing in him, which in the eyes of the world, rendered him deſirable, was by the <hi>Jewiſh builders,</hi> the <hi>Cheif Prieſts,</hi> the <hi>Scribes,</hi> the <hi>Phariſees,</hi> the <hi>Lawyers,</hi> and the <hi>Elders</hi> of the people <hi>rejected,</hi> and not barely ſo, but <hi>ſet at nought too;</hi> vilifyed, reproach'd, and blaſphemed: and in fine, layd ſafe enough (as they thought) in his grave, for ever pretending any more to the place and dignity of being the <hi>head ſtone in the corner:</hi> yet was <hi>he,</hi> by the mighty power of God, raiſed from this loweſt ſtep of <hi>exinanition;</hi> the priſon of the grave, and the honds of death, being unable to ſecure the reſolutions and practiſes of thoſe <hi>builders;</hi> but God <hi>raiſed him from the dead, through the ſpi<g ref="char:EOLhyphen"/>rit of holyneſſe, and ſet him at his own right hand in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avenly places, farre above all Principalitie, and power, and might, and dominion;</hi> with other ſuch marks of <hi>univerſall</hi> Sove<g ref="char:EOLhyphen"/>raignty, as you may hear from that great <hi>Herald</hi> of the <hi>Lords Anointed,</hi> St. <hi>Paul,</hi> Eph. 1. at the end.</p>
+            <p>Thus farre, you'll ſay, the <hi>garment of praiſe</hi> ſorts well e<g ref="char:EOLhyphen"/>nough with the <hi>occaſion</hi> of <hi>wearing</hi> it: but how for <hi>us?</hi> we'll parallel the caſe and ſee.</p>
+            <p>Firſt then, here's a <hi>ſtone,</hi> a ſtone <hi>refuſed,</hi> and that not by ignorant men, <hi>ſtanders by,</hi> men of <hi>no</hi> judgement in <hi>ſuch</hi> mat<g ref="char:EOLhyphen"/>ters but by men of skil, the <hi>builders</hi> themſelves; and then <hi>this ſtone,</hi> after all this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, this <hi>reprobation</hi>
+               <pb n="6" facs="tcp:125167:6"/>of him, and this <hi>ſetting of him at nought,</hi> become the <hi>head ſtone in the corner.</hi> We'll purſue it for a while in the <hi>Pa<g ref="char:EOLhyphen"/>rable.</hi>
+            </p>
+            <p>
+               <hi>Stones,</hi> you know, are a very conſiderable part of the ma<g ref="char:EOLhyphen"/>terials of building; without them, no building is ſtrong and durable. <hi>Babel</hi> may be built with <hi>brick inſtead of ſtone,</hi> and <hi>layd with ſlime inſtead of mortar;</hi> but a Building of <hi>Church,</hi> or <hi>State,</hi> muſt be like <hi>Solomons Temple,</hi> and <hi>Solomons houſe of the Kingdom,</hi> of <hi>hewen ſtones;</hi> ſuch ſtones as are wrought by the <hi>ſquare,</hi> and tryed by the <hi>line,</hi> and theſe ſet in <hi>well-temp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red mortar,</hi> or elſe 'twill not be right. And a <hi>building</hi> there was amongſt <hi>us</hi> of theſe Nations; a <hi>building</hi> of the <hi>Church,</hi> and a <hi>building</hi> of the <hi>State,</hi> excellently wrought, as men well-skill'd in ſuch kind of <hi>buildings,</hi> have often ac<g ref="char:EOLhyphen"/>knowledged, both of our <hi>own</hi> Countrymen and <hi>Strangers.</hi> But whether there were any neglect in thoſe, whoſe <hi>office</hi> it was to <hi>look</hi> unto, and <hi>ſecure</hi> theſe <hi>buildings;</hi> or whether <hi>time,</hi> which <hi>gnaws</hi> out, and <hi>vitiates</hi> things <hi>morall</hi> and <hi>poli<g ref="char:EOLhyphen"/>tique,</hi> as well as <hi>naturall,</hi> had weakned theſe <hi>buildings</hi> by any dangerous <hi>faultrings</hi> and <hi>decayes;</hi> or whether the <hi>faſhion</hi> of the <hi>Structure</hi> was not ſuch as pleaſed ſome <hi>caprici<g ref="char:EOLhyphen"/>ous build<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> who (like <hi>Ahaz</hi> when he had been at <hi>Dama<g ref="char:EOLhyphen"/>ſcus,</hi> 2 <hi>King.</hi> 16.10.) muſt needs have the <hi>form</hi> altered, and <hi>quadrata mutata rotundis;</hi> or what elſe was in the cauſe, I ſhall not trouble my ſelf to remember, or imagine; but ſure it was, that theſe <hi>active</hi> Builders, like <hi>Solomon</hi> unto <hi>Lebanon,</hi> ſent out their <hi>Labourers</hi> by <hi>ten</hi> thouſand at a time, and quickly pull'd all to peices; <hi>all</hi> was <hi>levell'd</hi> with the ground; the <hi>materialls</hi> ſcattered; not <hi>one ſtone to be ſeen upon ano<g ref="char:EOLhyphen"/>ther,</hi> the very <hi>corner ſtone</hi> being digg'd up, and <hi>caſt a<g ref="char:EOLhyphen"/>way.</hi>
+            </p>
+            <p>To <hi>ſet this together</hi> again, was in the judgement of all men, a <hi>work</hi> of much <hi>time</hi> and <hi>difficulty;</hi> and by <hi>ſome</hi> con<g ref="char:EOLhyphen"/>ceived, a thing utterly impoſſible; there being ſo <hi>many</hi> of the <hi>materials,</hi> and they the <hi>choiceſt,</hi> ſpoyled with the <hi>fall;</hi> many others <hi>loſt,</hi> and <hi>ſcattered,</hi> which could neither be <hi>found</hi>
+               <pb n="7" facs="tcp:125167:6"/>or <hi>ſupplyed;</hi> and the <hi>ſhape</hi> of ſuch as remain'd, <hi>unreducible</hi> to the <hi>new modell</hi> and <hi>platform.</hi>
+            </p>
+            <p>Upon this the <hi>builders</hi> ſate for ſome years together, <hi>con<g ref="char:EOLhyphen"/>ſulting</hi> and <hi>contriving</hi> what was fit to be done, and frequent<g ref="char:EOLhyphen"/>ly <hi>ejecting</hi> ſome or other of their <hi>fellows;</hi> either for that their <hi>numerouſneſſe,</hi> and <hi>equality,</hi> being all <hi>Maſter-builders,</hi> might cauſe diſtractions, as fell out at <hi>Babel;</hi> or, for that <hi>ſome</hi> of them (like the <hi>old men</hi> at building the ſecond Tem<g ref="char:EOLhyphen"/>ple, <hi>Ezr.</hi> 3.12.) were not ſo <hi>forward,</hi> as thoſe who had ei<g ref="char:EOLhyphen"/>ther <hi>not</hi> ſeen, or not <hi>duly</hi> conſidered, the <hi>beauty</hi> and <hi>ſtability</hi> of the <hi>firſt building.</hi>
+            </p>
+            <p>But at laſt, ſomewhat was reſolved on, and the <hi>ſtately, magnificent Fabrick</hi> of <hi>Regall Government</hi> was chang'd into the <hi>low, flat-roof'd ſtructure</hi> of a <hi>Commonwealth.</hi> This was ſo much diſlik'd by <hi>ſome,</hi> who as <hi>Adoniram,</hi> 1 King. 5. <hi>were over the Levies,</hi> that they conceived their pains ill beſtowed, in contributing all their <hi>endeavours</hi> (<hi>the expence of blood and treaſure,</hi> as <hi>they</hi> call'd it) to ſo <hi>homely</hi> a <hi>Pile.</hi> Reſolved therefore it was, that it ſhould have ſomewhat in it of the <hi>former firmneſſe</hi> and <hi>magnificence;</hi> and <hi>one</hi> choice <hi>ſtone</hi> ſhould be layd under the <hi>corner,</hi> upon which the <hi>weight, ſafety,</hi> and <hi>union</hi> of all ſhould depend. For this purpoſe one was thruſt in, <hi>hard,</hi> and <hi>heavy,</hi> like that <hi>peice of a Mill-ſtone</hi> wherewith the woman daſh'd out the brains of <hi>Abimelech,</hi> Judg. 9. a <hi>ſtone</hi> ſo hard, that <hi>it</hi> would be brought to no other <hi>ſhape,</hi> but what it naturally had; <hi>breaking</hi> and <hi>battering</hi> the <hi>edges</hi> of their <hi>tooles,</hi> who either endeavoured to <hi>Vemove</hi> him from <hi>that place,</hi> or to <hi>work him</hi> into ſuch a <hi>ſhape</hi> and <hi>ſigure</hi> as better lik'd them. So that as <hi>he</hi> was no <hi>tried ſtone,</hi> ſo in nothing ſo much as <hi>reſembling</hi> a <hi>precious ſtone;</hi> ſave, that as the <hi>Natural<g ref="char:EOLhyphen"/>tiſts</hi> obſerve of the <hi>red</hi> and <hi>fiery Carbuncle, Quod ſolus poſſit figuram ſuam aliis gemmis imprimere,</hi> that <hi>the Carbuncle, when it is ſet near other precious ſtones, imprints his colour and form on them, which no other ſtone doth;</hi> ſo this <hi>ſtone</hi> by its <hi>approxi<g ref="char:EOLhyphen"/>mation,</hi> could fix <hi>impreſſions</hi> of his <hi>ſhape</hi> and <hi>colour</hi> on any <hi>ſtone</hi> in the <hi>building,</hi> how <hi>opacous,</hi> and <hi>oppoſite</hi> ſoever to <hi>compli<g ref="char:EOLhyphen"/>ances</hi> with ſuch <hi>reflexions.</hi>
+            </p>
+            <pb n="8" facs="tcp:125167:7"/>
+            <p>But the <hi>ground</hi> being ſomewhat <hi>boggie</hi> and <hi>unſound,</hi> where<g ref="char:EOLhyphen"/>on the <hi>foundation</hi> was layd, this <hi>heavyſt ne</hi> after a while, <hi>ſank into the very bowels of the earth:</hi> And the whole <hi>build<g ref="char:EOLhyphen"/>ing</hi> had then falien, if <hi>they</hi> had not quickly ſeiz'd a <hi>ſtone at hand,</hi> to fill up the <hi>chaſme:</hi> a <hi>ſoft ſtone,</hi> and ſuch as would very well anſwer the <hi>ſtroaks</hi> of the <hi>Workmen,</hi> and be, with no great difficulty, brought to what <hi>ſhape,</hi> and <hi>ſize</hi> the <hi>buil<g ref="char:EOLhyphen"/>ders</hi> pleas'd. But in fine, it appear'd, that <hi>this ſtone</hi> was as much <hi>too ſoft,</hi> as the former was <hi>too hard:</hi> and therefore after ſome few months, the <hi>Build<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> for fear it ſhould <hi>ſhiver to peices,</hi> thought fit to <hi>remove</hi> that <hi>ſtone</hi> out of its place <hi>in the corn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r:</hi> an enterprize of great hazard, and ſuch as was more eaſily than ſafely effected: for thereby the <hi>whole pile</hi> crack'd immediately: Yet <hi>Buttreſſe</hi> after <hi>Buttr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe</hi> were ſet up, till in the end, as the manner of <hi>ſuch ſupports</hi> is, <hi>they</hi> fell, and with themſelves <hi>pull'd</hi> down the whole <hi>building.</hi>
+            </p>
+            <p>All this <hi>miſchief</hi> was, by many of the <hi>builders</hi> themſelves, acknowledg'd to happen for want of a <hi>ſound,</hi> and <hi>true<g ref="char:EOLhyphen"/>wrought corner-ſtone.</hi> Told they were, and foretold by di<g ref="char:EOLhyphen"/>vers, that unleſs they did make uſe of the <hi>ſtone</hi> they had for<g ref="char:EOLhyphen"/>merly <hi>rejected,</hi> the building could hardly ever be finiſh'd; or if it were, could not poſſibly be ſafe and per<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anent. But <hi>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lved</hi> it was by them, that <hi>that ſtone</hi> ſhould never be ad<g ref="char:EOLhyphen"/>mitted to <hi>that place:</hi> yea, though the <hi>builders</hi> ſhould labour for ever in endleſs confuſions, yet rather ſo, than <hi>that ſtone</hi> be <hi>ſet in.</hi>
+            </p>
+            <p>Nay, ſo unworthy was <hi>he</hi> thought to be the <hi>corner<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> in this <hi>building,</hi> that the <hi>builders</hi> would not allow <hi>him</hi> the place of a <hi>perpin;</hi> nay not ſo much as to be a <hi>filler</hi> in this <hi>building:</hi> no place at all for <hi>that ſtone</hi> which ought to have had the <hi>firſt</hi> and <hi>chiefeſt</hi> place. And to be ſure it ſhould be as they de<g ref="char:EOLhyphen"/>ſired, they ever wrought about this <hi>building,</hi> as they that built the walls of <hi>Jeruſalem,</hi> Neh. 4. with a <hi>ſword</hi> in one <hi>hand,</hi> and a <hi>trowel</hi> in the other.</p>
+            <p>Nay more yet; the <hi>Reſolves</hi> of theſe <hi>Builders</hi> againſt <hi>this ſtone,</hi> in the middeſt of all their misfortunes and confuſions,
+<pb n="9" facs="tcp:125167:7"/>were ſo deſperate, that after <hi>he</hi> had been with much vio<g ref="char:EOLhyphen"/>lence <hi>tumbl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> out of the Land wherein he was <hi>dugg'd</hi> (pre<g ref="char:EOLhyphen"/>ſuming that he was too heavy to be brought in again by <hi>their</hi> hands, <hi>whoſe hearts were ſet upon him</hi>) they tooke a courſe like that of <hi>Andronicus,</hi> to ſtrangle and ſuffocate all good inclinations towards <hi>him;</hi> of whom 'tis ſtoried by <hi>Sy<g ref="char:EOLhyphen"/>neſius, that not ſo much as a poor Biſhop of the Church, durſt ſhew any compaſſion to that man who was by him perſecuted;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Ep. <hi>58.</hi> ad Epiſ.</note> 
+               <hi>ſo deſperate and diffuſive was the rage and malice of that Tyrant.</hi> Not a man that durſt ſpeak of bringing back <hi>this ſtone,</hi> or ſo much as commend the <hi>fitneſſe</hi> of <hi>it,</hi> to be the <hi>head ſtone of the corner:</hi> A word ſpoken as <hi>fatally,</hi> as to have mentioned the recovery of <hi>Salamis</hi> to the <hi>Athenians</hi> of old: Nay, <hi>really</hi> to have been not <hi>compos mentis,</hi> as <hi>Solon</hi> counterfeited, would have been no ſecurity to him that ſhould have done ſo; a<g ref="char:EOLhyphen"/>gainſt the paſſionate fury of theſe <hi>builders.</hi>
+            </p>
+            <p>But do you not think I may poſſibly wrong theſe <hi>builders?</hi> For ſurely this ſeems to charge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them with intollerable <hi>igno<g ref="char:EOLhyphen"/>rance,</hi> or <hi>malice;</hi> that either they <hi>know not the things that belong'd unto our pence;</hi> or if they did, that they would not make uſe of the <hi>onely expedi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt;</hi> which was, to lay <hi>that ſtone</hi> in its <hi>own</hi> place.</p>
+            <p>Indeed, of <hi>ignorance</hi> I cannot accuſe them ſor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any of them were <hi>old builders;</hi> and the building of the <hi>Church</hi> to be ſure, if not <hi>that</hi> of the <hi>State,</hi> hath been long ſince ac<g ref="char:EOLhyphen"/>quainted with the <hi>fierie ſtroaks of their Axes,</hi> and <hi>Hammers,</hi> and therefore I cannot ſay of any of them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>he was ſo ridicu<g ref="char:EOLhyphen"/>lous, as not to underſtand the Principles of his own trade.</hi> They knew it wel enough: &amp; ſo did many of thoſe <hi>Jewiſh builders,</hi> who <hi>rejected</hi> the <hi>bead ſtone of the corner</hi> of the <hi>Church,</hi> Chriſt himſelf; they knew <hi>him</hi> well enough (if they had not, the Devils were able to have inform'd them) and yet they cry<g ref="char:EOLhyphen"/>ed out, <hi>Nolumus hunc regnare, We will not have this man reign over us;</hi> and therefore, <hi>venite, trucidemus eum, Come left us kill him, and the inheritance ſhall be ours,</hi> Mat. 21.
+<pb n="10" facs="tcp:125167:8"/>'Twas <hi>malice</hi> then no doubt, with <hi>covetouſneſſe,</hi> and other ſins ſpringing from that <hi>root of all evill.</hi>
+            </p>
+            <p>But being <hi>calumniari fortiter</hi> was an Aphoriſme amongſt theſe <hi>builders;</hi> not onely to <hi>refuſe,</hi> but to <hi>ſet at nought</hi> this ſtone (their perſectly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) the <hi>ſeeds</hi> of which miſchief are not yet <hi>dead</hi> (perhaps) in all mens breaſts; ſo that, I fear me, I may boldly ſay with <hi>Tertullian, Poſt vin<g ref="char:EOLhyphen"/>demiam,</hi>
+               <note place="margin">P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>demiam Parricida<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> racema<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſu<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſies, qui a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itate exemplum a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que im<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pei ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rarent, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncip<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in corde muta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>Tertul. Apo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. 35.</hi>
+               </note> 
+               <hi>&amp;c.</hi> which I ſhall no otherwiſe tran<g ref="char:EOLhyphen"/>ſlate than thus; <hi>That every mans heart may not be ſo chearfull as his face this day.</hi> We will therefore lay aſide the <hi>Parable,</hi> and ſee what 'tis that may be deſir'd, or wiſh'd for in a Prince, that is wanting in <hi>ours,</hi> the now (bleſſed be God for it) <hi>head-ſtone of the corner,</hi> of our <hi>Church</hi> and <hi>State;</hi> whereby yee ſhall ſee how juſtly <hi>deſirable he</hi> was to theſe Nations, and with what inſolent malice theſe <hi>builders</hi> re<g ref="char:EOLhyphen"/>jected <hi>him,</hi> let <hi>Syneſius,</hi> Biſhop of <hi>Cyrene</hi> be our guide herein, if you pleaſe, in his excellent <hi>Oration</hi> to <hi>Ar<g ref="char:EOLhyphen"/>cadius.</hi>
+            </p>
+            <p n="1">1. The firſt thing that he recommends unto that Empe<g ref="char:EOLhyphen"/>rour is <hi>Piety;</hi> becauſe a Government layd on that,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Syneſ. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> is <hi>founded</hi> upon a <hi>Roek,</hi> no way lyable to the invaſion of <hi>Storms:</hi> that's his reaſon for it, and 'tis a <hi>ſound</hi> one. Princes are jealous of nothing ſo much as of their <hi>States.</hi> If therefore they would have their State ſecure, they muſt bee <hi>pious</hi> Prin<g ref="char:EOLhyphen"/>ces. The <hi>Throne</hi> never ſtands ſo ſure, as when the <hi>Pedeſtals</hi> thereof are fixt upon <hi>Religion.</hi> We do not mean hereby ſuch a Religion as <hi>Machiavel</hi> recommends to a Prince; away with it, we have ſeen a <hi>tranſcript</hi> of that in the late Uſurper: But ſuch a Religion 'tis as <hi>Eu<g ref="char:EOLhyphen"/>ſebius</hi> ſpeaks of,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euſeb. Eccl. Hiſt. l. <hi>6.</hi> c.<hi>3.</hi>
+               </note> and commends in one of the <hi>Ancients, wherin holy principles were made legible by holyneſſe of life: Practicall Religion,</hi> which in a Prince doth not terminate it ſelf only in <hi>his</hi>
+               <pb n="11" facs="tcp:125167:8"/>own perſon: no Prince is religious enough, that like <hi>Gideons fleece is wet only, and all the ground about him dry:</hi> an <hi>impi<g ref="char:EOLhyphen"/>ous</hi> Court, and an <hi>impious</hi> Kingdom, though <hi>himſelf</hi> be <hi>pious.</hi> He muſt be a <hi>godly Prince</hi> as well as a <hi>godly perſon;</hi> advance Religion in the capacity of a King too, at his <hi>Councill Table,</hi> in his <hi>Parliaments,</hi> in his <hi>Courts of Judicature:</hi> in a word, over all his Dominions; by his <hi>politique</hi> as well as by his <hi>perſonall</hi> conveighing it, unto every joynt and knot of <hi>publique Societies;</hi> which like thoſe, in ſtalks of <hi>corn,</hi> will <hi>diffuſe</hi> nouriſhment unto each <hi>grain</hi> in the <hi>ear.</hi>
+            </p>
+            <p>Thus it ſhould be with <hi>Princes</hi> and (bleſſed be God) ſo it is with ours. Let a <hi>Phariſee</hi> with his <hi>Inciſion-knife</hi> dipt in <hi>vineger</hi> and <hi>gall,</hi> Anatomize his converſation; make inſpe<g ref="char:EOLhyphen"/>ction into his publique deportment, and his moſt private <hi>re<g ref="char:EOLhyphen"/>ceſſes,</hi> and then tell us where lyes the <hi>redundancie</hi> or <hi>defect:</hi> wherein he failes of the true <hi>Symmetry,</hi> of a <hi>rationall</hi> pra<g ref="char:EOLhyphen"/>ctiſe of Religious duties. I am very confident, that there is not a <hi>Prince</hi> or <hi>perſon</hi> in the world, that carries him<g ref="char:EOLhyphen"/>ſelf ſo well poyz'd, betwixt the <hi>ſlovenlyneſſe</hi> of the <hi>miſ<g ref="char:EOLhyphen"/>govern'd Zelot,</hi> and the <hi>capriciouſneſſe</hi> of the <hi>nice Ro<g ref="char:EOLhyphen"/>maniſt.</hi>
+            </p>
+            <p>And what is the greateſt comfort to all <hi>honeſt-hearted</hi> Chriſtians, we have cauſe to truſt, that God hath reward<g ref="char:EOLhyphen"/>ed his Majeſties <hi>ſufferings</hi> (for that's the uſuall ſeaſon of <hi>di<g ref="char:EOLhyphen"/>spenſing</hi> it) with the grace of <hi>perſeverance</hi> therein; having for a long time, divers years together, endured the <hi>aſſaults</hi> of <hi>two</hi> the moſt powerfull temptations, not only to <hi>fall-off</hi> from, but even to <hi>hate</hi> the <hi>Proteſtant</hi> Religion: That of <hi>ſcan<g ref="char:EOLhyphen"/>dall</hi> from the men of <hi>his</hi> own (at leaſt from ſuch as <hi>preten<g ref="char:EOLhyphen"/>ded</hi> to be of <hi>his</hi> own) <hi>Faith,</hi> and the <hi>immenſe</hi> favours of ſuch as are known to be of a <hi>contrary perſwaſion:</hi> theſe, who by the former ſort, were accounted little other than <hi>ravening Bears</hi> and <hi>Wolves,</hi> doing the offices of a <hi>Nurſe</hi> (as one may ſpeak) to <hi>this poor Prince,</hi> when his <hi>own</hi> Subjects had rejected him, unto the invaſions of all <hi>imaginable</hi> miſchiefs and ca<g ref="char:EOLhyphen"/>lamities.</p>
+            <pb n="12" facs="tcp:125167:9"/>
+            <p n="2">2. A ſecond thing is, not only <hi>the choice of good and wiſe perſons, with whom he may communicate his coun<g ref="char:EOLhyphen"/>ſells freely,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. <hi>ib.</hi>
+               </note> 
+               <hi>but whom he ſhould in earneſt ſtile his friends.</hi> 'Tis a very great happyneſs, both to Prince and people, when wiſe and good men, faithfull to the intereſt of the <hi>Church</hi> as well as of the <hi>State</hi> (otherwiſe indeed they are neither wiſe nor good) ſhall ſit at the <hi>helme</hi> of Government; ſo ſit there, as not to be ſquinted on by their Prince; who may be rather <hi>contented</hi> than <hi>pleaſed,</hi> that they ſhould be there; or ſit there as <hi>cyphers,</hi> whilſt all is managed by <hi>favourites,</hi> or by a <hi>Cabi<g ref="char:EOLhyphen"/>net-councill</hi> Princes may indeed be neceſſitated to do <hi>thus</hi> ſometimes; but then we may aſſuredly conclude, that if the Princes be wiſe and virtuous perſons, they have the <hi>worſt</hi> of ill lucks, to be peſtered with <hi>wicked</hi> ſubjects: For Religion and Virtue, are firm bonds of mutuall confidence, and as they open the breaſts of all, to <hi>freedom</hi> and <hi>ſincerity</hi> of <hi>coun<g ref="char:EOLhyphen"/>cils,</hi> ſo they unite all mens hands unto <hi>uniform, regular,</hi> and <hi>ſeaſonable execution.</hi>
+            </p>
+            <p>And hath not his Majeſty given a very remarkable teſti<g ref="char:EOLhyphen"/>mony of this? See, though <hi>himſelf</hi> be young, whether his Counſellors are like <hi>Rehoboam's,</hi> the men that he was bred up <hi>with,</hi> and not rather thoſe whom he was bred up <hi>under?</hi> Perſons, for their deſcent, <hi>honourable;</hi> for their gravity, <hi>re<g ref="char:EOLhyphen"/>verend;</hi> for their experience, <hi>ſafe;</hi> for their fidelity, <hi>truſt<g ref="char:EOLhyphen"/>able;</hi> for their piety, <hi>exemplary:</hi> and theſe entertain'd by his Majeſty with ſuch demonſtrations of affection, and (for ought we know) with ſuch conformity of judgement, that ſurely the <hi>double,</hi> but <hi>uniſon-ſtring'd</hi> Inſtrument of Go<g ref="char:EOLhyphen"/>vernment (I am loath to uſe <hi>that notion,</hi> it ſtickes by me like <hi>meat offered unto an Idol</hi>) muſt needs ſound <hi>harmoniouſly,</hi> when the <hi>ſtrings</hi> are ſo well <hi>accorded.</hi>
+            </p>
+            <p n="3">
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>3. A third thing is, that a Prince ſhould, next to his <hi>Coun<g ref="char:EOLhyphen"/>ſellours, receive his Armies as his friends; put himſelf into the
+<pb n="13" facs="tcp:125167:9"/>field with them, exerciſing himſelf in feats of Arms.</hi> And he gives this reaſon for it, <hi>That his Souldiers may bee cordially affected toward him,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> &amp;c.</note> 
+               <hi>for being able to ſtile them his</hi> Fellow-ſouldiers, <hi>by joyning himſelf to them in Martiall exerciſes.</hi> You muſt conſider this was written to a <hi>Roman Emperour,</hi> but enough of it is applyable to his Sacred Majeſty: For was he not bred up in Arms? Was he not ſcarcely out of his <hi>Cradle,</hi> ere he was got into the <hi>Camp?</hi> Will not <hi>Scotland</hi> where he layd the <hi>firſt,</hi> and <hi>Wor<g ref="char:EOLhyphen"/>ceſter,</hi> where he plac'd the <hi>ſecond Scene</hi> of his Enterprize to recover his Crown, ſpeak aloud for his Majeſty?</p>
+            <p>No doubt thoſe who were his Enemyes can witneſſe e<g ref="char:EOLhyphen"/>nough in his behalf. The virtues of his Majeſty had (que<g ref="char:EOLhyphen"/>ſtionleſs) very much prepared a way in the hearts of his <hi>now</hi> Armies; it were not otherwiſe poſſible with men, that he ſhould meet with ſo <hi>univerſall,</hi> and <hi>cordiall</hi> a <hi>Reception</hi> with them, as we have reaſon to beleive he doth at this time: this being but the finiſhing of that Victory, which his <hi>mag<g ref="char:EOLhyphen"/>nanimity, courage, temperance, patience,</hi> and other <hi>Princely vir<g ref="char:EOLhyphen"/>tues,</hi> had before began in their minds. So that from this we may take an <hi>omen</hi> of his Majeſties future <hi>quiet</hi> Government: ſaying as St <hi>Cyrill</hi> of our Saviour, <hi>That if he could beginne to govern them by the power of his virtues,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>Cat.</hi> 15.</note> 
+               <hi>whilſt they were in hoſtility againſt him, how much mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> obedient will they be unto him, now he is become confeſſedly their King?</hi>
+            </p>
+            <p>And now what more is it that you would have added to this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, this <hi>image</hi> and <hi>portraiture</hi> of his Majeſty? You cannot but beleeve but ſuch a one as my ſelf cannot be though capable of expreſſing him fully: Nay, who will be able to doe it, when years and practiſe ſhall enlarge his Sphear of <hi>ſplendour,</hi> and fill it yet fuller of <hi>Her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick</hi> and <hi>Kingly</hi> Actions? May I not ſay then, as the people of <hi>Iſrael</hi> concerning <hi>Solomon, Becauſe the Lord loved Iſrael for ever, therefore made he thee King to dee judgement and juſtice?</hi>
+            </p>
+            <pb n="14" facs="tcp:125167:10"/>
+            <p>And what think you now of <hi>this ſtone</hi> which the builders refuſed? was he not fit to be <hi>caput anguli,</hi> the <hi>head-ſtone of the corner?</hi> Doubtleſs <hi>ſo</hi> fit, that no <hi>ſtone</hi> fitter; yea no <hi>ſtone ſo</hi> fit. Fit for his ſtrength, fit for his beauty: <hi>ſtrong</hi> ſuch a <hi>ſtone</hi> had need be; for it bears a great weight; the weight of the <hi>two ſides;</hi> the two ſides of the <hi>building united:</hi> So did <hi>David</hi> of <hi>Judah</hi> and of <hi>Iſrael;</hi> ſo doth our Saviour of the <hi>Jew</hi> and of the <hi>Gentile,</hi> as <hi>Theophylact</hi> inferres, himſelf being the <hi>chief corner ſtone</hi> of the Church:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Theoph. Mar. <hi>12.</hi>
+               </note> And ſo doth <hi>CHARLES</hi> the burden and union of <hi>Great Britannie</hi> and <hi>Ireland,</hi> of the <hi>Church</hi> and <hi>State:</hi> and then <hi>bea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>full</hi> he muſt needs be, becauſe a <hi>tryed,</hi> and a <hi>precious ſtone; pre<g ref="char:EOLhyphen"/>cious</hi> in the eyes of God and man. Let <hi>His Name</hi> be therefore bleſs'd for him, and for that we have found him there, after almoſt a <hi>Zodiack</hi> of years ſpent in wiſhes and prayers that he were there. That wee have found him not <hi>Lapis poſitus,</hi> which ſome thought e<g ref="char:EOLhyphen"/>nough, others too much; not onely a <hi>ſtone</hi> in this <hi>building,</hi> but <hi>lapis ſummus,</hi> the <hi>chief,</hi> the <hi>head-ſtone of the corner;</hi> there where we have <hi>wiſh'd</hi> him; there where we would have <hi>ſet</hi> him.</p>
+            <p>And now let me tell you (how much <hi>prolixity</hi> ſoever the handling of this part of my <hi>Text</hi> doth <hi>portend,</hi> yet) I can<g ref="char:EOLhyphen"/>not, I muſt not let goe this <hi>quarter</hi> of the <hi>garment of praiſe,</hi> till I have ſomewhat ſettled it upon you, with <hi>a word of Ex<g ref="char:EOLhyphen"/>hortation:</hi> which is,</p>
+            <p>That you not onely reflect with thankfulneſſe, upon this great mercy of God, who hath found this way for <hi>atoning</hi> all <hi>parts,</hi> and <hi>compoſing</hi> our <hi>animoſities;</hi> but that you ſincere<g ref="char:EOLhyphen"/>ly endeavour to anſwer the Divine providence therein. Can there be a greater honour unto you than to bear a part in this <hi>building,</hi> when you ſhall lye on ſuch a <hi>corner-ſtone</hi> as <hi>this?</hi> when you ſhall be <hi>built</hi> on a <hi>tryed,</hi> and a <hi>precious ſtone?</hi> and together with your fellow Subjects, become a <hi>building,</hi> not <hi>cemented</hi> with <hi>blood</hi> and <hi>tears,</hi> but with <hi>charity</hi> and <hi>bro<g ref="char:EOLhyphen"/>therly kindneſs?</hi>
+            </p>
+            <pb n="15" facs="tcp:125167:10"/>
+            <p>Take heed, I beſeech you, that this <hi>ſtone</hi> become not ſuch unto you, as was propheſied of our <hi>Saviour,</hi> that he be not unto you a <hi>Rock of offence;</hi> that you doe not <hi>ſtumble</hi> and <hi>fall</hi> at <hi>him,</hi> and ſo <hi>daſh</hi> your ſelves; or that <hi>this ſtone</hi> doe not fall upon you, and ſo <hi>grind you to powder.</hi> It will be your own ſin, whether you <hi>doe</hi> one, or <hi>ſuffer</hi> the other. <hi>Honeſt, humble,</hi> and <hi>obedient</hi> hearts will help all; and <hi>penitent</hi> too, if need be. It was no diſhonour to the <hi>Athenians,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Propterea dam<g ref="char:EOLhyphen"/>natus eſt Socra<g ref="char:EOLhyphen"/>tes, quia Deos deſtrucbat: plane olim, id ſempe eſt, veritas odi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſt. Tamen cum poenitentia ſen<g ref="char:EOLhyphen"/>tentiae Athenienſes criminatores Socratis poſtea afflixerint, &amp; imaginem ejus auream in Tem<g ref="char:EOLhyphen"/>plo collocarint, reſciſſa damnatio teſtimonium Socrati reddidit. <hi>Tert. Apolog.</hi> c. <hi>14.</hi>
+               </note> that <hi>after they had in their tyrannical popular government, condemned</hi> Socrates (afterward executed by his own hand with a cup of <hi>poyſon</hi>) <hi>for defaming their Idols, that they erected him a golden ſtatue in one of their Temples, as a token of diſallowing the judgement and actions of his accuſers.</hi>
+            </p>
+            <p>Take heed, I ſay, for believe it, God will own <hi>his</hi> King; He hath done it heretofore in his <hi>wonderfull preſervation</hi> of <hi>him,</hi> and he hath done it now in his more wonderfull <hi>Re<g ref="char:EOLhyphen"/>ſtauration</hi> of him. Take heed then of oppoſing God, as at all times, ſo moſt eſpecially when He is working of wonders; and of reſiſting <hi>him</hi> for whom God doth work wonders. No man ever did, no man ever ſhall proſper in ſuch attempts. And to further your propenſity to embrace this admonition, give us your company in our <hi>admiration</hi> of this <hi>marvellous</hi> thing that God hath wrought, that you may the better ac<g ref="char:EOLhyphen"/>quieſce, when you ſhall ſee ſuch a world of men acknow<g ref="char:EOLhyphen"/>ledging, confeſſing, and ſaying with us, <hi>that this is from the Lord; it is marvellous in our eyes.</hi> And ſo I paſſe to the ſe<g ref="char:EOLhyphen"/>cond thing, <hi>mirandi admiratio,</hi> as we have term'd it, the next <hi>quarter</hi> of this <hi>garment of praiſe.</hi>
+            </p>
+            <p n="2">2. And is it indeed (may ſome ſay) ſo great a wonder with you, that his <hi>Majeſty</hi> is reſtored to his <hi>Throne?</hi> and why was it not as great a wonder, that an <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> ſhould get into <hi>it?</hi> By no means; there be ſeveral reaſons of diſparity in the caſe; we ſhall name onely two.</p>
+            <pb n="16" facs="tcp:125167:11"/>
+            <p n="1">1. That <hi>Andronicus,</hi> that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>miſcreant,</hi> that <hi>fear'd nor God nor man</hi> (as the world will further ſee, when the <hi>big-ſwolne belly</hi> of that <hi>Trojan ſtalking horſe</hi> of his pretenſions ſhall be ript up) had prepared him<g ref="char:EOLhyphen"/>ſelf a way to <hi>abſolute power,</hi> by creating a <hi>new</hi> Faction in both Houſes of <hi>Parliament,</hi> and in the <hi>then</hi> Armies; ſome of whom were <hi>in omne facinus parati,</hi> men of deſperate, bloudy tempers, and (which was the <hi>enchaunted circle</hi> of all their attempts, and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>amulet</hi> againſt all re<g ref="char:EOLhyphen"/>pentance) ſecured by an opinion, that men acted by a <hi>Stoi<g ref="char:EOLhyphen"/>call, fatall neceſſity,</hi> being (in reaſon) no more reſponſible for any thing they did, than a <hi>beaſt</hi> for acting by the inſtinct of <hi>Nature,</hi> or a ſtone for <hi>moving downward.</hi> That <hi>Catiline</hi> himſelf, having (I conceive) raiſed his <hi>firſt Troup</hi> under the <hi>provocation</hi> and <hi>impulſion</hi> of the ſame <hi>fate;</hi> and there<g ref="char:EOLhyphen"/>fore giving no other anſwer to a <hi>Kinſman</hi> of his, that di<g ref="char:EOLhyphen"/>ſwaded him from his <hi>rebellious</hi> attempt, than this, <hi>it muſt be.</hi> An anſwer ſo very well like that of <hi>Alaricus,</hi> King of the <hi>Gothes</hi> to a <hi>Religious</hi> man, who when he de<g ref="char:EOLhyphen"/>manded of him,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Socrat. Eccleſ. Hiſt. l. <hi>7.</hi> c. <hi>10.</hi>
+               </note> 
+               <hi>why he ſhould delight in doing ſo much miſchief in the world? and that if he ſhould goe on to the populous City of</hi> Rome, <hi>hee could not but foreſee the moſt deplorable outrages, and bloody rapines which his Souldiers would commit:</hi> anſwered, <hi>that he had no great pro<g ref="char:EOLhyphen"/>penſion in himſelf thereto, but that there was ſomewhat within him impelling him to goe on, and ſack</hi> Rome. Their anſwers (I ſay) and the bloody complexion of their ſpirits ſorted ſo well, that the <hi>one,</hi> as well as the <hi>other,</hi> de<g ref="char:EOLhyphen"/>ſerved the Title of <hi>Flagellum Dei,</hi> as <hi>Alaricus</hi> was then call'd all the Chriſtian world over, <hi>The ſcourge of God.</hi> No <hi>marvellous</hi> thing then it was for one to get up to the <hi>Throne,</hi> who had a way made for him; and if not, a <hi>Sword</hi> in his hand, <hi>ſharp</hi> enough, and <hi>long</hi> enough to have done it himſelf.</p>
+            <pb n="17" facs="tcp:125167:11"/>
+            <p n="2">2. Again, in what poſture trow ye was the <hi>spirit</hi> of this Nation at that time? But baſely dejected, by po<g ref="char:EOLhyphen"/>verty and oppreſſion? how compliant and ready to <hi>yoak</hi> un<g ref="char:EOLhyphen"/>der any <hi>propoſall,</hi> that might give hopes to a <hi>faction</hi> that they ſhould be the <hi>leading</hi> party, and their guilt and rapine ſe<g ref="char:EOLhyphen"/>cured? Of which <hi>devices</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> was ſo well provided, that he could <hi>threw</hi> out one of them, as the <hi>Prophet</hi> did the <hi>pe<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſ wood upon Jordan,</hi> and no <hi>Faction</hi> was ſo <hi>heavy,</hi> and deeply ſunk, that would not preſently <hi>ſhew its head above the water.</hi> You cannot but remember how all <hi>Factions</hi> moved within his <hi>Tropicks,</hi> and had their <hi>viciſſitudes</hi> and <hi>returns:</hi> and what hopes they had ſometimes given them, if not of being the <hi>higheſt,</hi> yet of not being to <hi>low</hi> and <hi>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>preſt</hi> as they were. Which <hi>Factions</hi> were by him ſo artificially poyz'd, that he was ſenſible of, the <hi>ſmalleſt luſt</hi> that brake the ſcale: himſelf like a great <hi>poyſonous Spider</hi> ſitting in the <hi>middeſt of his w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bb,</hi> which though ſpread, over <hi>three Nations,</hi> nay over the greateſt part of <hi>Europe,</hi> yet ſo <hi>acute</hi> he was by his own <hi>ſagacity</hi> partly, partly by the <hi>diligence</hi> of his <hi>Miniſters,</hi> and partly by the <hi>vigilancy</hi> of his numerous <hi>ſpies</hi> and <hi>intelligen<g ref="char:EOLhyphen"/>cers,</hi> that ſcarce a <hi>Gnat</hi> could <hi>ſtrike</hi> upon any <hi>meaſh</hi> of his <hi>Not</hi> (that Webb of vanity, as ſince it proved) not ſo much as a ſmall blaſt upon it, not a word ſpoken againſt it, but time<g ref="char:EOLhyphen"/>ly notice thereof came to his ear.</p>
+            <p>But what ſaw we of any ſuch advantages towards his Majeſties Reſtauration<g ref="char:punc">▪</g> What rational account could thoſe of his party give for being ſo highly <hi>ſanguine</hi> and hopeful as they were? if they had been put to it, could they have given another more ſatisfactory anſwer than that which <hi>Celſus</hi> in <hi>Origen</hi> derides? <hi>All things with God are poſſible.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Orig. cont. Celſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. <hi>5.240.</hi>
+               </note> Surely I cannot apprehend my ſelf miſtaken, if I ſay what I then thought, that all things were not long before, in a poſture <hi>diametrically</hi> oppoſite to his <hi>Majeſties return:</hi> And if not that, yet to ſuch a return as <hi>this:</hi> to the return of him as a <hi>free Prince;</hi> and to be carried into his <hi>Throne</hi> upon their <hi>ſhoul<g ref="char:EOLhyphen"/>ders,</hi> whoſe <hi>necks</hi> were ever thought to have too ſtiffe a <hi>ſi<g ref="char:EOLhyphen"/>new</hi> in them, for ever enduring to wear, though but the <hi>eaſie
+<pb n="18" facs="tcp:125167:12"/>yoak</hi> of <hi>Monarchicall</hi> Government, at leaſt if impoſed by one of the <hi>Royal Family.</hi>
+            </p>
+            <p>But <hi>when a mans way pleaſeth the Lord,</hi> Solomon tels us, that <hi>he maketh his enemies to be at peace with him.</hi> 'Tis the work of God that, to make a mans enemyes to become his freinds: ſuch a <hi>multitude</hi> of enemies, of <hi>victorious</hi> enemies, and that on a ſudden, that his Majeſty like the Church in the Prophet, might wonder and ſay, <hi>who hath begotten me all theſe?</hi> Iſa. 49.21.</p>
+            <p>Immediately before the day breaks, the night (they ſay) is darkeſt. It is Gods manner, to ſhew himſelf in the <hi>mount of the Lord,</hi> when things are deſperate, in the very <hi>conela<g ref="char:EOLhyphen"/>matum eſt.</hi> If I am able to gheſſe any thing, within few months before the Lord ſtirr'd up the ſpirit of his ſervant, the now <hi>Lord Gen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rall,</hi> the Kings affaires <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as one ſpeaks of the ſtate of the Empire in his time) were <hi>upon the edge of the razor.</hi>
+            </p>
+            <p>Again, what doth more demonſtrate a very <hi>ſpeciall hand</hi> of God in the <hi>Reſtauration</hi> of his Majeſty, than the <hi>univer<g ref="char:EOLhyphen"/>ſall reception</hi> of him, with ſuch joy, and acclamations of his people? <hi>Reception</hi> ſayd I? yea, than ſuch <hi>impatiencies</hi> and <hi>longings</hi> for his return; all men fearing, they ſhould bee thought the laſt that ſhould deſire <hi>to bring back the King.</hi> Think you that it may not be ſayd of theſe, as of them who ſtuck to <hi>Saul</hi> in the Sedition, 1 Sam. 10.26. <hi>That God had touch'd their hearts?</hi> Muſt all be lodg'd upon the <hi>mobility</hi> of the vulgar, the <hi>changeable</hi> temper of the people? For my own part, I ſay with the <hi>Father, hoc ſoli Chamaeleonti detur, de c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rio ſuo ludere; let the Chamel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on be the onely turn-coat.</hi> I ſhall for ever commend the <hi>ingenuity</hi> of my <hi>countrymen,</hi>
+               <note place="margin">Tertul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de Pallio.</note> and bleſſe the <hi>Providence</hi> of Almighty God, ſaying with St. <hi>Irae<g ref="char:EOLhyphen"/>nens, Volunt as &amp; operatio Dei effectrix eſt &amp; providens cauſa,</hi>
+               <note place="margin">
+                  <hi>Cited by</hi> De<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tr. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acop. a v<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. de Ign. I rag. Iren.</note> 
+               <hi>omnis temporis, loci, &amp; ſaeculi, itemque naturae omnis. That the will and operation of the Divine Majeſty is the efficacious and provident cauſe of all changes, in times, places, ages, and na<g ref="char:EOLhyphen"/>tures.</hi> Take heed therefore, that you doe not rob God of
+<pb n="19" facs="tcp:125167:12"/>any part of this honour, therewith to raiſe <hi>Trophies,</hi> and <hi>cbelſques</hi> to men; who though <hi>free Agents,</hi> are yet but <hi>ſecond cauſes. When you ſee the nimble, and ad<g ref="char:EOLhyphen"/>vantageous motion of a ſhip,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;c.</hi> Theoph. ad Autolyc. lib. <hi>1.</hi>
+               </note> 
+               <hi>weathering of it out in a ſtorm, and coming ſafe into the harbour in the end; you cannot but believe ſhe is guid<g ref="char:EOLhyphen"/>ed by ſome skilfull Pilot within; whoſe art and directions are not ſeen by you on the ſhore.</hi> Apply this with <hi>Theophilus</hi> to the <hi>providence</hi> of God, in governing <hi>inviſibly</hi> the Affaires of the Univerſe, and you will be ready to ſay with the Prophet <hi>Daniel</hi> (one who ſaw wonderfull changes, not onely in his <hi>native country,</hi> but in the <hi>Land of his captivity</hi>) <hi>Bleſſed be the name of God for ever and ever, for wiſdome and might are his, and he changeth the times and the ſeaſons, he removeth Kings, and he ſetteth up his Kings,</hi> Dan. 2.20, 21. And theſe <hi>Euchariſticall</hi> devotions of that holy Prophet hath arrived me at my <hi>third</hi> part, <hi>Admirationis ſo<g ref="char:EOLhyphen"/>lennitas,</hi> the <hi>ſolemnity</hi> of that <hi>admiration,</hi> which is <hi>due</hi> to this <hi>marvellous</hi> thing, by reflecting upon fit circumſtances for performing it, <hi>place, time, perſons,</hi> &amp;c. a <hi>fit day</hi> for it howe<g ref="char:EOLhyphen"/>ver. <hi>This is the day the Lord hath made,</hi> &amp;c. the third <hi>quarter</hi> of this <hi>garment of praiſe.</hi>
+            </p>
+            <p n="3">3. Though God be in truth the Author of all good things, and the Creatour of <hi>time</hi> (being himſelf not meaſured by any time, no not by <hi>eternity</hi> it ſelf, but rather <hi>eternitie</hi> by him) ſo that we may truly ſay, <hi>the day is thine, and the night is thine, thou haſt prepared the light and the ſun,</hi> Pſal. 74.16: Yet hath not Satan failed to play his part, in filtching away ſome dayes from God, which he hath made <hi>dayes of his ſo<g ref="char:EOLhyphen"/>lemne worſhip.</hi> Of old he had his <hi>Feſtivals</hi> and his <hi>dayes of Expiation</hi> amongſt the <hi>Heathen;</hi> yea ſome imitation he had of the <hi>Crown of Martyrdome,</hi> as we know by his <hi>Mithrae milites.</hi> And it was one of his <hi>Devices,</hi> by theſe <hi>imitations</hi> to lye as cloſe upon the confines of the true Religion as mought be; and to keep as narrow <hi>land-ſhares</hi> betwixt the
+<pb n="20" facs="tcp:125167:13"/>
+               <hi>fields</hi> of <hi>Truth</hi> and <hi>Errour,</hi> as poſſibly he could, that <hi>affe<g ref="char:EOLhyphen"/>cting the app<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arance of divine things in his ſervice,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> — id<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rco quadam de <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os de ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um fide conſun<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <hi>Tert. de Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on. mil. c. 15.</hi>
+               </note> 
+               <hi>he might by the faith of his own worſhippers, ſtagger, and enſnare the ſervants of God.</hi> But hath he not his <hi>dayes</hi> amongſt <hi>us?</hi> his dayes they were I think (for I am ſure God diſowns them) where men <hi>faſted to ſmite with the fiſt of wickedneſs;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>— Philem. in Juſt. Mart. d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Monarchia D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i.</note> and inſtead of <hi>letting the captive looſe, to make his bands ſtrong:</hi> And what were the <hi>Thanksgiving</hi> daies amongſt us, but ſuch as they obſerved in <hi>Rev.</hi> 11.10. who when they had ſlain the <hi>Witneſſes</hi> of God (two it ſeems of ſo great note, that they were thought by the Holy Spirit fit to comprehend a <hi>great body,</hi> or <hi>Army</hi> of <hi>Martyrs</hi>) <hi>made merry, &amp; ſent gifts one to another.</hi> God Almighty forgive the deep <hi>diſſimulation, hypecriſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>blaſphemy</hi> of thoſe dayes.</p>
+            <p>This to be ſure is no ſuch: <hi>this</hi> is the <hi>day, the day the Lord hath made.</hi> Made? why ſo he hath <hi>yeſterday,</hi> and the day <hi>before.</hi> But God hath provided us a <hi>speciall</hi> buſineſs for <hi>this</hi> day: the cauſe of our <hi>Rejoycing</hi> upon this day is from <hi>Him; this was his doing;</hi> to thank him for it is that we doe, and ſo <hi>this</hi> day is his by a <hi>double</hi> account.</p>
+            <p>It is <hi>His</hi> day becauſe it is the <hi>Kings</hi> day; and it is the Kings day, becauſe it is the <hi>Lords</hi> work. I hope I need not ſpend any part of this day in proving, that the King hath power to diſpoſe of <hi>this</hi> day. Allow him but as much as hath been given to his Subjects, and they the worſt of them, and we need not diſpute for it. I ain me-thinks I would have all things done in the <hi>Church</hi> as St. <hi>Paul</hi> adviſeth, <hi>Phil.</hi> 2.14. <hi>without murmuring and diſputings:</hi> and that men would but be ſo modeſt and ingenuous as to learn an example of
+<pb n="21" facs="tcp:125167:13"/>the <hi>Jews</hi> (though it be not ſo much for the credit of a Chri<g ref="char:EOLhyphen"/>ſtian to be ſet to School to a Jew) that as <hi>whatſoever King David did pleas'd the people,</hi> 2 Sam. 3.36. So what the <hi>King</hi> doth, at leaſt what <hi>our</hi> King doth command, might pleaſe us. That was ſpoken in reſpect of a <hi>day</hi> too; that <hi>day</hi> for a <hi>Prince</hi> that ſell, this for a King that's riſen up.</p>
+            <p>Shall I give you ſome <hi>motives</hi> to encourage you to an hearty <hi>complacency</hi> with his Majeſty? Why then know,</p>
+            <p>Firſt, that it is your <hi>duty</hi> to your King, who hath power to <hi>determine</hi> things <hi>indifferent,</hi> and exact your obedience to what part him pleaſeth: And if you were not ſenſible of this, yet <hi>ingenuous</hi> nature could not but be willing to <hi>comply</hi> with ſuch a Prince as <hi>ours,</hi> and <hi>congratulate</hi> him into his <hi>Throne:</hi> of whom I may ſay, as <hi>Syneſius</hi> of <hi>Dio,</hi> that he is A- <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>cornu-copia</hi> of virtues. Nay, do but conſider whether you are able to get quit of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the other part of St. <hi>Pauls</hi> ſimilitude, 1 <hi>Cor.</hi> 12.26. where he tells you, that <hi>if one member be exalted all the members rejoyce;</hi> much more when a <hi>diſlocated</hi> Head, the chiefeſt member of all, is put in its own place. This is all the <hi>Preſents</hi> his <hi>Majeſty</hi> expects from you; and remember I pray you, that ſuch as brought <hi>Saul</hi> no <hi>preſents</hi> when he was made King o<g ref="char:EOLhyphen"/>ver <hi>Iſra l,</hi> are ſtil'd <hi>Sons of Belial,</hi> 1 Sam. 10.27. indeed the <hi>fouleſt names</hi> I meet with in <hi>Scripture</hi> (as well as the <hi>horribleſt puniſhments</hi>) are ever fixt upon <hi>Rebels,</hi> and <hi>Rebellion,</hi> and <hi>de<g ref="char:EOLhyphen"/>ſpiſers of Government.</hi>
+            </p>
+            <p n="2">2. Again, conceive your ſelf oblig'd to <hi>anſwer</hi> the <hi>pro<g ref="char:EOLhyphen"/>vid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of Allmighty God; as well thoſe which concerne you in your <hi>publique,</hi> as in your <hi>private</hi> capacity: not ſuch only which concern you as a father, husband, brother, neigh<g ref="char:EOLhyphen"/>bour, freind, and the like; but as you are a <hi>Subject</hi> and a <hi>Chriſtian,</hi> as you are a <hi>member</hi> of the <hi>Church</hi> and of the <hi>State.</hi> Can your reaſon perſwade you, that God doth things <hi>wor<g ref="char:EOLhyphen"/>thy</hi> your <hi>rejoycing</hi> and of your <hi>thanks</hi> in your family, and yet not ſo in <hi>Church</hi> and <hi>State!</hi> or that you are not as <hi>much</hi> (though indeed you are <hi>more</hi>) concern'd in <hi>national<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> than in
+<pb n="22" facs="tcp:125167:14"/>
+               <hi>perſonall</hi> bleſſings? and that God expects a tribute of praiſe from you for the <hi>one</hi> and not for the <hi>other?</hi> no man can be ſo <hi>unreaſonable</hi> as to think it. But if it be ſo with any men, let me tell them, that for ſo doing, they are neither <hi>wiſe</hi> nor <hi>righteous</hi> men: <hi>Epithets</hi> that they will be loath to part with at every price; yet you ſhall have the Holy Ghoſts word for it in <hi>Pſal.</hi> 64. wherein <hi>David</hi> having made mention of the defeat of his Enemies, whoſe <hi>character</hi> you have at the 5, and 6. verſes, worth your peruſall; and theſe ſuddenly deſtroyed with an <hi>arrow</hi> ſhot from God; ſo <hi>ſuddenly</hi> ſhot, that all men muſt needs know it came from <hi>his</hi> bow; and ſo ſurely ſhot, that men could not chooſe but think it was from <hi>one</hi> that was ready for them; and ſhot ſo <hi>home,</hi> that they muſt needs know it was his ſtrength that drew the bow: ſaith the Pſalmiſt, <hi>men ſhall fear and declare the work of God, for they ſhall</hi> wiſely <hi>conſider of his doing:</hi> and then v. 10. the righteous <hi>ſhall be glad in the Lord.</hi> Like enough the wicked will not be ſo; perhaps they had loſt a <hi>party</hi> by it; perhaps more, their ill-gotten goods to boot: and <hi>fooles</hi> would not be ſo; for as they <hi>conſider not when themſelves do evill,</hi> ſo they take no notice when God doth good: but for <hi>wiſe</hi> and <hi>righ<g ref="char:EOLhyphen"/>teous</hi> men, they were glad and rejoyc'd in the Lord; wiſely and duly acknowledging <hi>that is was his work.</hi>
+            </p>
+            <p n="3">3. I am loath to adde one reaſon more, becauſe it is ta<g ref="char:EOLhyphen"/>ken <hi>ex materia humili,</hi> yet it is <hi>ex fortiori,</hi> from too <hi>low</hi> and <hi>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpicable</hi> ground, to be pleaded to Chriſtians, yet (ſuch is the age) from one ſtrong enough to <hi>perſwade:</hi> Well then, 'tis the <hi>Peace,</hi> the <hi>Liberty,</hi> and the <hi>Plenty</hi> you are likely to enjoy under this Prince, whom you may be aſſured will be a <hi>King,</hi> and not a <hi>Tyrant;</hi> one that will govern his people by <hi>known Laws,</hi> and not <hi>by his will,</hi> as Tyrants; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and you are ſure you have no <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> ſet over you, but a <hi>King,</hi> one that is the <hi>right heir</hi> to his <hi>Fathers</hi> Kingdoms and Virtues too, and ſo never likely to <hi>tyrannize</hi> over his people.</p>
+            <p>Onely this let me mention, which is not of ſmall impor<g ref="char:EOLhyphen"/>tance,
+<pb n="23" facs="tcp:125167:14"/>that if it pleaſe God to take us away from our chil<g ref="char:EOLhyphen"/>dren e're they can <hi>diſcern betwixt good and evill</hi> (and 'twas no eaſie matter to diſcern, when from the very <hi>Pulpits</hi> you ſhould hear <hi>evill call'd good, and good evill</hi>) they have now ſome <hi>water-marks</hi> ſet up in <hi>Jordan</hi> again; the <hi>revivall</hi> of their <hi>engagements</hi> in their Baptiſme; and the former aſſiſtan<g ref="char:EOLhyphen"/>ces for guiding them into the profeſſion and practiſe of the <hi>true, ref<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm'd, Catholique Religion.</hi> The <hi>bounds</hi> whereof were of late ſo defac'd, or pluck'd up; and <hi>Truth</hi> and <hi>Errour</hi> lay ſo <hi>intermix'd</hi> and <hi>promiſcuous,</hi> that of what truth almoſt ſo<g ref="char:EOLhyphen"/>ever any of us was in poſſeſſion, he might ſay as the <hi>African</hi> Philoſophers in <hi>Hermias,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hermias.</note> 
+               <hi>it was dangerouſly bordered upon ſome phanatique principle or other;</hi> in ſo <hi>deplorable</hi> a conditi<g ref="char:EOLhyphen"/>on had we left our <hi>Poſterity:</hi> Nay I am very well aſſured, that no perſon living could have given <hi>convincing reaſons,</hi> that this Nation ſhould be long ſecured from <hi>Atheiſm</hi> under the <hi>f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmer <g ref="char:V">Ʋ</g>ſurpations.</hi> So <hi>fatall</hi> a thing is this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, this <hi>popular Government,</hi> if not to <hi>Chriſtian Religion</hi> in gene<g ref="char:EOLhyphen"/>rall, yet to the <hi>Reform<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Religion</hi> I am afraid.</p>
+            <p>But ſome perhaps there may be, who after all this, may tell me, that this cannot find ſuch matter of <hi>rejoycing on this day,</hi> as I ſpeak of. Shall I <hi>divine</hi> the reaſons of it? and will you not think I am become your enemie, if I tell you the truth? Well, if you doe, no great matter to me. I know 'tis that you would have call'd <hi>[conſcience]</hi> that the <hi>grumbling</hi> lyes in: But I pray examine your ſelves wel, and ſee whether,</p>
+            <p n="1">1. Your <hi>conſcience</hi> may not be in your <hi>purſes.</hi> Men may fear that <hi>Taxes</hi> and <hi>Subſidies</hi> may grow <hi>heavy:</hi> O how diſlike <hi>Iſſachar</hi> and his <hi>Embleme</hi> are we become now! I have ſome<g ref="char:EOLhyphen"/>where read of the <hi>Polanders,</hi> that they conceited the <hi>Chriſti<g ref="char:EOLhyphen"/>an Faith</hi> ſo <hi>chargeable</hi> to them by their payment of <hi>Tythes,</hi> that after a very <hi>ſuccesfull</hi> converſion, they well-nigh all fell back again into <hi>Paganiſm:</hi> A fate ſomewhat like that of the <hi>Iſraclites,</hi> who for fear of <hi>Payments,</hi> at once turn'd <hi>Re<g ref="char:EOLhyphen"/>bels</hi> and <hi>Idolaters:</hi> God permitting that the <hi>Mammon</hi> them<g ref="char:EOLhyphen"/>ſelves adored in their <hi>purſes</hi> ſhould by <hi>Jeroboams</hi> wicked po<g ref="char:EOLhyphen"/>licy,
+<pb n="24" facs="tcp:125167:15"/>be turn'd into <hi>Idols</hi> for them to worſhip at <hi>Bethel</hi> and <hi>Dan.</hi>
+            </p>
+            <p>But, beloved, will you ſee what opinion the <hi>Primitive, holy Chriſtians</hi> were of, concerning this point? let <hi>Juſtin Mar<g ref="char:EOLhyphen"/>tyr</hi> inform you, who tels you, that <hi>the Chri<g ref="char:EOLhyphen"/>ſtians were th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firſt that ſtrove to pay in the Em<g ref="char:EOLhyphen"/>perours Tributes and Cuſtomes,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l <hi>2.</hi> p <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</hi> &amp; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rt. Ap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. c <hi>42.44.</hi>
+               </note> You'l ſay per<g ref="char:EOLhyphen"/>perhaps, 'twas more for fear of being <hi>plun<g ref="char:EOLhyphen"/>der'd</hi> and <hi>und<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</hi> than for any love they bore them. Not ſo: 'twas for <hi>conſcience ſake</hi> they did it; ſo the <hi>Father</hi> adds [<hi>as He,</hi> that is, <hi>as Chriſt hath taught us.</hi>] and after him St. <hi>Paul</hi> the ſame Doctrine, <hi>Rom.</hi> 13. But this is a needleſſe fear in them, who doe it not for <hi>conſcience ſake;</hi> for why ſhould we fear the <hi>Kings Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ars</hi> having been ſo lately under the <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers Razer.</hi>
+            </p>
+            <p n="2">2. Again, your conſcience may ſwimme (perhaps) in your brains, and then your <hi>fantaſtical, imaginarie</hi> Religion will o<g ref="char:EOLhyphen"/>ver-rule you into <hi>reall, practicall ſins;</hi> for <hi>diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bedience</hi> and <hi>murmurings againſt lawfull Govern<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urs</hi> are ſuch, and <hi>damning ſins</hi> too. Let ſuch men therefore turn <hi>imagination</hi> out of the <hi>Throne</hi> of <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and begin upon <hi>Principles</hi> of <hi>meekneſſe</hi> and <hi>humility;</hi> and believe that <hi>we,</hi> ſome of us at leaſt (and per<g ref="char:EOLhyphen"/>haps more of us than your uncharitableneſs will yet give you leave to think) who profeſſe our ſelves, <hi>Sons of the Church of England</hi> (which by the <hi>Logick</hi> of this Nation God hath very ſignally own'd in his <hi>providence</hi>) are as carefull to ſave our ſoules, as any of thoſe who make more <hi>noyſe</hi> about it; and rather than walk with us in a <hi>way caſt up,</hi> the <hi>ancient pathes of the Church of God,</hi> leap all the <hi>mounds</hi> and <hi>hedges</hi> of <hi>duty</hi> and <hi>obedience.</hi> Beloved, I ſpeak it confidently, that the grea<g ref="char:EOLhyphen"/>teſt part of the <hi>deſerters</hi> of the <hi>Church of England,</hi> are <hi>more,</hi> at beſt as <hi>much,</hi> lyable to a charge of an <hi>implicite faith,</hi> as any <hi>Romaniſt</hi> whatever; the <hi>having mens perſons in admira<g ref="char:EOLhyphen"/>tion</hi> having clearly (I had almoſt ſayd, <hi>alone</hi>) ſeduc'd them into their <hi>Schiſm, Errours,</hi> and <hi>Hereſies:</hi> of which (I am ſatisfied) they are never able to give any <hi>rationall</hi> account,
+<pb n="25" facs="tcp:125167:15"/>beyond the <hi>credit</hi> of their <hi>Teachers,</hi> who to them are <hi>Scri<g ref="char:EOLhyphen"/>pture, Church, Canons,</hi> and what not.</p>
+            <p n="3">3. Laſtly, your <hi>conſcience</hi> may be, perhaps, in your <hi>cu<g ref="char:EOLhyphen"/>ſtom,</hi> and <hi>practiſe,</hi> men will not, they cannot tell how to lay down <hi>former uſag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> it creates a <hi>bluſh</hi> in them. But, beloved, let ſuch men get <hi>humility,</hi> and <hi>love of the truth;</hi> and if need be, <hi>confeſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, give God the glory of their c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nverſion,</hi> and returne into the <hi>Communion</hi> of the Church: and for <hi>our</hi> parts, we will provide our ſelves to receive them with all <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>erneſs</hi> and <hi>br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>therly kindneſs;</hi> giving them all ſatisfa<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any <hi>ſcruple</hi> or <hi>doubt</hi> they may have, ſo they deſire it <hi>in ſincerity.</hi> If this, or what elſe they can think on, be an <hi>expedient</hi> for <hi>cleanſing</hi> the <hi>wound,</hi> and <hi>healing theſe breaches</hi> amongſt us, we are ready for <hi>our</hi> parts, in our <hi>places</hi> and <hi>callings</hi> to aſſiſt in the <hi>cure, laying aſide all bitterneſs and anim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſities:</hi> which being <hi>firſt</hi> done, and ſo the <hi>wound wip'd</hi> and <hi>cleans'd</hi> thereby; that <hi>balſamum naturale</hi> will be <hi>excited</hi> (as in <hi>bodily</hi> cures) the <hi>na<g ref="char:EOLhyphen"/>turall</hi> diſpoſition of mankind into <hi>ſociableneſſe</hi> and <hi>converſe;</hi> which will, by the <hi>bleſſing of God,</hi> grow in a ſhort time, into <hi>brotherly kindn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> one for another.</p>
+            <p>I am loath, me-thinks, to part with any man in this <hi>ſolem<g ref="char:EOLhyphen"/>nity:</hi> the <hi>[we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>]</hi> here is a word of <hi>communion: all</hi> have their ſhare in the <hi>bleſſing;</hi> let <hi>none</hi> then be wanting in the <hi>rejoy<g ref="char:EOLhyphen"/>cings</hi> of this day: I mean <hi>alacrity and chearfulneſs of heart;</hi> nor a <hi>ſmooth</hi> forehead only; but a <hi>ſer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> and <hi>calme</hi> mind; no <hi>cloud</hi> nor <hi>ſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rm</hi> there. However, faile who will, either of <hi>rejoycing at all;</hi> or of <hi>alacrity</hi> and <hi>chearfulneſſe</hi> of doing it; yet there be enough, who having felt the <hi>ſmart</hi> and <hi>miſery</hi> of the pu<g ref="char:EOLhyphen"/>niſhment, will be very forward and active in bleſſing God for their <hi>deliverance</hi> from it. See then, <hi>how the Tribes goe up to Sion to give thanks to the name of the Lord;</hi> and it may be, that as <hi>Saul</hi> alſo propheſied, when he met the <hi>company of Prophets,</hi> 1 Sam. 10. So the <hi>provocation</hi> of the example, may make you ſenſible of your concernments in the <hi>duty.</hi>
+            </p>
+            <p n="1">1. Firſt then, here are the <hi>Nobility</hi> and <hi>Gentry</hi> of this Na<g ref="char:EOLhyphen"/>tion; they <hi>rejoyce this</hi> day: becauſe now the <hi>fountain of ho<g ref="char:EOLhyphen"/>nour</hi>
+               <pb n="26" facs="tcp:125167:16"/>is again <hi>unſtopt,</hi> and the <hi>ſtream</hi> of it, likely to be <hi>pure,</hi> without <hi>mingling</hi> with <hi>muddy currents,</hi> broken in by <hi>popular inundations:</hi> And not their <hi>Honour,</hi> but their <hi>Eſtates</hi> lay unfenc'd too, and open to all <hi>invaſions:</hi> the <hi>invaſions</hi> of ſuch as would make <hi>men offenders for a word;</hi> yea, not ſo often for a <hi>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd</hi> by them ſpoken, as by a <hi>word</hi> or <hi>name</hi> fixt upon them by that <hi>neſt</hi> of <hi>wasps,</hi> thoſe <hi>Delat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi> and <hi>Informers,</hi> that (as if <hi>Nero,</hi> after a <hi>tranſmigration</hi> into all the ravening beaſts of the earth, had at laſt compleated the <hi>Metempſychoſis</hi> into a greater monſter amongſt us, and revived here) did <hi>then</hi> ſwarm ſo thick<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in this nation; an abject, baſe condition, <hi>they</hi> were then caſt into; when it might have been ſaid of them as of the Chriſtians in <hi>Athenagoras,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nag. l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g. pro Chriſt.</note> that the very name of <hi>cavaliere</hi> (which being interpreted out of the <hi>riddle,</hi> ſignified better importance than was intended) was crime enough, if not for preſent puniſhment, yet to <hi>dispoſe</hi> them for a <hi>quarrie</hi> and <hi>prey,</hi> at thoſe ſeaſons wherein that whole <hi>airie,</hi> and <hi>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt</hi> of <hi>Harpies</hi> were <hi>caſt off at the royall game;</hi> which all know was frequent<g ref="char:EOLhyphen"/>ly enough; yea ſo frequent, that in few years there would have been not much <hi>variety</hi> of ſport, for thoſe <hi>Aucupes &amp; venatores hominum,</hi> thoſe <hi>devourers of whole families.</hi>
+            </p>
+            <p>Well now then, <hi>good luck may they have with their honour:</hi> they are now <hi>incircled</hi> with advantages of filling up their <hi>wide</hi> and lofty ſphears with bright and ſhining examples of vir<g ref="char:EOLhyphen"/>tuous and religious actions; which I know they are ſo wiſe as to conſider, that God expects by way of return at their hands.</p>
+            <p n="2">2. Again, the <hi>Judges</hi> and <hi>Magiſtrates</hi> do <hi>rejoyce and are glad this day;</hi> I mean ſuch of them as are <hi>men fearing God, and ha<g ref="char:EOLhyphen"/>ting covetuouſneſſe;</hi> becauſe <hi>now</hi> they ſhall not be <hi>compell'd,</hi> or <hi>ſeduc'd</hi> to act againſt their conſciences; either by admi<g ref="char:EOLhyphen"/>niſtring Juſtice without authority, or by <hi>giving ſentences of judgment</hi> upon ſuch as were not offenders againſt <hi>known Law,</hi> but rather the <hi>maintainers</hi> and <hi>vindicaters</hi> of Law.</p>
+            <p n="3">3. The <hi>Commons</hi> alſo, for the <hi>comfort</hi> and <hi>ſecurity</hi> they have, of their <hi>lives, eſtates,</hi> and <hi>religion,</hi> without being indan<g ref="char:EOLhyphen"/>gered
+<pb n="27" facs="tcp:125167:16"/>in the <hi>two former,</hi> by being left to the <hi>will</hi> and <hi>diſcretion</hi> of others: and in the <hi>latter,</hi> by being left to the <hi>government</hi> of themſelves.</p>
+            <p n="4">4. But then for the <hi>Clergy</hi> (who might with St. <hi>Polycarp,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Frag. Ir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p.ad Flor.</note> as well in reſpect of <hi>hereſies</hi> and <hi>blaſphemies</hi> (as that holy man was wont) as in reſpect of their own <hi>ſufferings,</hi> have cryed out, <hi>unto what times, O good God, haſt thou permitted us to live, that we ſhould ſuffer ſuch things as theſe?</hi>) their part and pro<g ref="char:EOLhyphen"/>portion of rejoycing is like <hi>Benjamins, four times</hi> bigger than their Brethrens: for they doe not only <hi>ſhare</hi> with their Bre<g ref="char:EOLhyphen"/>thren in their <hi>portion</hi> of the <hi>bleſſings</hi> of this day; but they have many things very peculiar unto their <hi>calling,</hi> for which they muſt <hi>give thanks;</hi> for now that <hi>abhominable, hypocriticall Act,</hi> for <hi>ejecting</hi> them out of their Churches, and that <hi>Abo<g ref="char:EOLhyphen"/>mination</hi> of <hi>deſolation,</hi> the <hi>Proclamation</hi> commencing from the <hi>firſt of January,</hi> 1654 are <hi>reſcinded</hi> for ever; and never to be revived, till the <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> and his <hi>Inſtruments</hi> ſhall ſtand trembling before the <hi>Judgement ſeat of Chriſt,</hi> accounting for the <hi>blood</hi> and <hi>tears</hi> of three Nations: the firſt of which was clearly deſigned to render the <hi>Clergy</hi> baſe and odious, and to lay our <hi>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> Mother the <hi>Church of England,</hi> under the feet of <hi>thick-ſhood Rupices</hi> and <hi>Barbari</hi> of this Nation, who were impowred <hi>cognoſcere</hi> at leaſt, if not <hi>judicare,</hi> to take <hi>cognizance</hi> of (thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> like the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Athenagoras,</hi> the three great crimes objected againſt the <hi>Primitive Chriſtians</hi>) the <hi>ignorance, ſcan<g ref="char:EOLhyphen"/>dall,</hi> and <hi>inſufficiency</hi> of their <hi>Paſtours:</hi> crimes as untelligi<g ref="char:EOLhyphen"/>ble, as undeterminable by <hi>ſuch</hi> Judges. And the <hi>later</hi> a <hi>pro<g ref="char:EOLhyphen"/>ject</hi> to cut up the <hi>remaining root</hi> of our <hi>Liturgy,</hi> by prohibi<g ref="char:EOLhyphen"/>ting, under the diſpleaſure of that <hi>
+                  <g ref="char:V">Ʋ</g>ſurper</hi> (which was, I war<g ref="char:EOLhyphen"/>rant you, as far as his chain would reach) not only the <hi>read<g ref="char:EOLhyphen"/>ing</hi> of <hi>Common prayer,</hi> but <hi>the making uſe in publique of any clauſes and expreſſions therein.</hi> So that <hi>that excellent</hi> Book (once the <hi>Crown</hi> of our <hi>Martyrs,</hi> but ſince the ſcandal of our Miniſters) was by all preſumed to be (like the <hi>Idols</hi> of <hi>Iſrael</hi>) left to the Bats and to the Owle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; as many of our
+<pb n="28" facs="tcp:125167:17"/>Churches long ſince were; moſt of the reſt being either ſup<g ref="char:EOLhyphen"/>plyed by <hi>Idoll</hi>-paſtours, or groaning under the <hi>deſolating</hi> ca<g ref="char:EOLhyphen"/>prices of <hi>Zijm</hi> and <hi>Oijm,</hi> and Satyrs that <hi>dance</hi> therein.</p>
+            <p>But bleſſed be God, who though for our ſins he ſuffered that <hi>Bellows of H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> to kindle and blow the fire of <hi>Schiſme, Her <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, and Sed<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> amongſt us<g ref="char:punc">▪</g> yet he did not permit him (no not when his lu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gorg'd a whirlwind</hi> againſt it) to <hi>blow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut</hi> the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ardle</hi> of his <hi>truth,</hi> ſet up in this poor Church of his Be ſad the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll this day (though I would have none but Devils <hi>y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i</hi> at it) <hi>yet will w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be glad and rejoyce in it.</hi>
+            </p>
+            <p>No d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>bt (will ſome be ready to ſay) the <hi>day</hi> will be well obſerved the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>gs will have the face of heatheniſh <hi>Bacchanals<g ref="char:punc">▪</g>
+               </hi> rat<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a <hi>Chriſtian feſtivall.</hi> I wiſh (if it might pleaſe God) <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>judging</hi> upon one ſide, and this <hi>deſpiſing</hi> upon to'ther might have an end. But whatever oc<g ref="char:EOLhyphen"/>caſion of provoaking th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enſures</hi> may be given by the ex<g ref="char:EOLhyphen"/>travagancies of ſome men; yet you ſhall ſee by what follows, we teach no ſuch things, in the <hi>celebration of our ſolemnity;</hi> the fourth <hi>quarter of this garment of praiſe,</hi> and my laſt <hi>task</hi>
+            </p>
+            <p n="4">4. <hi>Solennitatis celebratio,</hi> the way we preſcribe for teſtify<g ref="char:EOLhyphen"/>ing and ſetting forth our Rejoycings, <hi>v.</hi> 25. Firſt in Praiſes, or <hi>Hoſannah's. Save now I beſeech thee, O Lord:</hi> and then in <hi>Prayer; O Lord I beſeech thee ſend now proſperity.</hi> Though <hi>both</hi> theſe found like Prayers, yet the former of them is wel known to have been the common <hi>acclamation</hi> of the <hi>Iews</hi> at their <hi>Feaſt</hi> of <hi>Tabernacles;</hi> and was likewiſe uſed at other times of <hi>Feſtivity</hi> and publique joy. So the multitude ſang, or cryed out <hi>Hoſannah,</hi> and <hi>Hoſannah in the higheſt</hi> (that is poetically, in the Heavens) when our Saviour rode in triumph unto <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> on <hi>Palm-ſunday:</hi> the ſame word being uſed in the <hi>o<g ref="char:EOLhyphen"/>riginall</hi> of the Text: and 'tis thus much, <hi>let us ſing to day</hi> Hoſannahs <hi>unto the Lord, for the good he hath ſhewne to us</hi> this <hi>day.</hi> And ſo if it be a <hi>Prayer</hi> yet it is a <hi>Praiſe</hi> too; and 'tis as if one ſhould ſay, <hi>Bleſſed be thy name, O Lord, for this ſalvati<g ref="char:EOLhyphen"/>on; ſave us henceforth, O Lord, as thou haſt hitherto preſerved and kept thy people.</hi>
+            </p>
+            <pb n="29" facs="tcp:125167:17"/>
+            <p>The latter part of the verſe, is a prayer for temporall, and ſpiritual happineſs <hi>[O Lord I beſeech thee ſend now proſperity.] n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w,</hi> after the time wherein wee have been afflicted for our ſins, but are mercifully relieved by thy power. <hi>Quick</hi> and <hi>pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnant</hi> returns of <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion;</hi> from which and ſuch like pla<g ref="char:EOLhyphen"/>ces of <hi>Scripture</hi> it is that the Church in all Ages hath taken her pattern for the faſhion and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Antiphones:</hi> of which this <hi>Pſalm</hi> is according to the <hi>C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dee</hi> a notable inſtance; as the moſt <hi>judicious, pious, learned</hi> and never <hi>enough to be la<g ref="char:EOLhyphen"/>mented,</hi> becauſe never ſo much as <hi>now wanted</hi> Dr. <hi>Hammond</hi> hath obſerved in his <hi>Annotations</hi> on this <hi>Pſalm.</hi> So that I take the reſult to be this; that this <hi>ſolemnity</hi> is to bee <hi>cel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>brated</hi> with <hi>praiſe</hi> and <hi>prayer</hi> unto God. We muſt praiſe God for the ſalvation given, and pray unto him, that we may ſee more <hi>proſperous</hi> and happy times than we have ſeen.</p>
+            <p>Note, I beſeech you, that the Church of God hath eſteem'd it very well worth our moſt ſolemn addreſs of Thankſgiving; when a <hi>Good King</hi> (ſuch as <hi>David</hi>) is ſettled in his Throne: and not that only, but a ground to <hi>hope</hi> and <hi>pray</hi> for <hi>prospe<g ref="char:EOLhyphen"/>rous</hi> times. This doctrine reſults from the <hi>literall</hi> interpreta<g ref="char:EOLhyphen"/>tion of the Text.</p>
+            <p>A <hi>good</hi> Prince is indeed a great ſalvation from God unto his people; therefore when God threatens deſtruction to a people, one thing amongſt the reſt for effecting of it is, that <hi>God will give children to be their Princes, and babes ſhall rule o<g ref="char:EOLhyphen"/>ver them,</hi> Iſa. 3.4. and ſo to have <hi>many</hi> Princes (the once darling-government of this Nation) is with God eſteemed a curſe, and a <hi>puniſhment for the iniquity of a people.</hi> And in <hi>Ho<g ref="char:EOLhyphen"/>mer</hi>'s time, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a popular government was eſteem'd the worſt.</p>
+            <p>Nay, to have had a Prince that had but ſhewn himſelfe a friend to the <hi>Chriſtian Religion,</hi> would have been by the <hi>Pri<g ref="char:EOLhyphen"/>mitive</hi> Chriſtians eſteem'd a great bleſſing: as bad as their Emperors were, they held themſelvs oblig'd to pray for the<g ref="char:cmbAbbrStroke">̄</g>, and to keep ſuch daies of <hi>ſolemnity</hi> for them as <hi>this;</hi>
+               <note place="margin">
+                  <hi>See</hi> Tertul. A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> c. <hi>30. and</hi> Juſt. Mart. Apol. <hi>2.</hi> p. <hi>64.</hi>
+               </note> &amp; never to <hi>oppoſe</hi> and <hi>reſiſt them,</hi> though many hundreds of Chriſtians fell in ſome dayes by the hands of their bloody, perſecuting
+<pb n="30" facs="tcp:125167:18"/>
+               <hi>Miniſters.</hi> I have heard ſome heretofore object, that it was for want of a ſufficient ſtrength to make head againſt them. But ſuch had ſmall acquaintance either with the <hi>virtues,</hi> or with the <hi>writings</hi> of the Primitive Chriſtians. <hi>Tertullian</hi> can tell you, that <hi>vel una nox pauculis faculis largitatem ultionis poſſis operari, ſi malum malo diſpungi n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bis liceret,</hi> c. 36. <hi>a few fires in one night would <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> given th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m a very plentifull re<g ref="char:EOLhyphen"/>venge if they durſt have return'd evil for evil.</hi> They were but the Emperours Miniſters whom they durſt not reſiſt, though they did many times perſecute them without any <hi>commiſſion</hi> at all, or under very poor pretences. More may be ſeen of their number &amp; valour in thoſe <hi>Apologiſts</hi> to the <hi>Emperours,</hi> who were very well able to diſcern when they ſpake truth.</p>
+            <p>From this it was that their joy was inexpreſſible at <hi>Conſtan<g ref="char:EOLhyphen"/>tines</hi> coming to the Power; the firſt that ever did any thing for the <hi>Chriſtian Religion</hi> in the capacity of an <hi>Emperour</hi> and <hi>member</hi> of the Church, though <hi>Philip</hi> indeed preceeded him in profeſſion of the Chriſtian ſaith. And how can we chooſe but rejoyce then, and bleſs God, not onely for that he hath given us a <hi>Chriſtian</hi> King, an <hi>Orthodox</hi> King, but a <hi>wiſe</hi> and <hi>courageous</hi> Prince;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Cyr. ip. ad Const.</note> and what crowns all, a <hi>Religious</hi> Prince, of whom we may ſay, as <hi>Cyril</hi> in his Epiſtle (if it be his) to <hi>Con<g ref="char:EOLhyphen"/>ſtantius</hi> that <hi>he is ſuch a one, who by his profeſſion and examples of Religion wil teach others:</hi> and this too in the judgment &amp; opi<g ref="char:EOLhyphen"/>nion of his enemies, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>'tis a con<g ref="char:EOLhyphen"/>ſiderable teſtimony,</hi> if it be for good, <hi>that one hath from his ene<g ref="char:EOLhyphen"/>my.</hi> And as <hi>thanks</hi> are due to <hi>Almighty God</hi> for the good that we have received, ſo alſo for the evil that we have eſcap'd; from what we have felt, from what we have fear'd Nay, from more than moſt of us have either felt or fear'd: for what man was able to foreſee the miſchief that this Nation was expos'd unto both in <hi>Church</hi> and <hi>State,</hi> until this ſettlement? They were no men to be ſcared with <hi>mormo's</hi> that fear'd an <hi>utter deſolation</hi> of this kingdom, in all the uglieſt ſhapes of miſery, and miſchief, that malice and revenge could practiſe. And certainly we have encouragements given us by a time ſo op<g ref="char:EOLhyphen"/>poſite to <hi>that,</hi> to expect and pray for <hi>proſperity;</hi> not that we
+<pb n="31" facs="tcp:125167:18"/>may wallow in the <hi>milk</hi> and <hi>honey</hi> of <hi>Canaean;</hi> ſtuff our skins full o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gods bleſſings, and then ſpew them up again in his face as formerly: (I hope that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that holy <hi>flagel<g ref="char:EOLhyphen"/>lation</hi> wherewith we have been <hi>diſciplin'd,</hi> under the hand of God will preſerve us from running into ſuch exceſſes,) but the <hi>proſperity</hi> that we ought to hope and pray for, is that the Church hath taught us in her <hi>Reſponds, O Lord ſave thy peo<g ref="char:EOLhyphen"/>ple, and bleſſe thine inheritance,</hi> &amp;c. <hi>and give peace in our time O Lord,</hi> &amp;c. and the <hi>poynt</hi> or <hi>c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r</hi> wherein all theſe <hi>lines</hi> ſhould meet, muſt be the ſame which is by St. <hi>Paul</hi> ſayd to be the great end of Chriſtians, in <hi>praying for their Kings</hi> and <hi>all that be in authority,</hi> 1 Tim. 2.2. <hi>That we may lead a quiet, and peaceable life, in all godlyneſs and honeſty.</hi> Other <hi>carnal</hi> de<g ref="char:EOLhyphen"/>ſigns of ſuch prayers for <hi>proſperity,</hi> are but to pray to God to ſet an edge upon that knife wherewith a man intends to de<g ref="char:EOLhyphen"/>ſtroy himſelf.</p>
+            <p>And this <hi>Prosperity</hi> is very <hi>emphatically</hi> deſired and pray'd for, <hi>now: now,</hi> after thou haſt, O Lord, been graciouſly pleas'd to begin to viſit us: <hi>now,</hi> after that wee have ſuffer'd ſo much, and ſo long: <hi>now,</hi> after we have <hi>a<g ref="char:EOLhyphen"/>gain</hi> put our necks under the eaſie yoak of our <hi>lawful Government,</hi> in <hi>Church</hi> and <hi>State: now,</hi> after we have repented us from all our former tranſgreſſi<g ref="char:EOLhyphen"/>ons: <hi>now,</hi> after we have endeavoured to ſhew our ſelves <hi>thankfull</hi> for our <hi>de<g ref="char:EOLhyphen"/>liverance.</hi>
+            </p>
+            <p>And now what have I more to doe, ſince I have told you, for what God is to be praiſed <hi>this day;</hi> and for what this day to be prayed unto. Surely, I think, <hi>this garment of praiſe</hi> is very well fitted unto our occaſion. And if it <hi>ſits too ſtreight</hi> on any man here, 'tis becauſe he is not <hi>clean-limm'd</hi> then; ſome <hi>humour</hi> perhaps, and <hi>ſwelling</hi> of the <hi>old diſeaſe;</hi> which I hope this <hi>garment of garment of praiſe</hi> may <hi>heal</hi> in time, as well as <hi>hide</hi> now.</p>
+            <p>That which remains to be done, is to let the world ſee what doctrine 'tis that we preach: preach with a deſire and a deſign to have it practis'd; and that muſt be in <hi>your</hi> diſcharge of the duties of <hi>this day;</hi> ſo as is fit, for <hi>ſuch</hi> a day as <hi>this;</hi> the <hi>Lords day;</hi> a day <hi>extraordinarily</hi> made <hi>his,</hi> by the <hi>extraordinary</hi> bleſſing of this day.</p>
+            <p>Shall I tell you how the <hi>Primitive</hi> Chriſtians were wont to keep <hi>ſuch</hi> dayes as <hi>this? this</hi> very day of their <hi>Heathen, bloody, perſecuting Emperors?</hi> (O patient ſoules! that could doe that for <hi>them,</hi> who ſhed their blood, which ſome of us will ſcarce do for <hi>them</hi> who have <hi>adventured</hi> their blood for us!) well then, let the Ancient <hi>Father</hi> ſpeake out the truth of it— <hi>Solennia corum conſcientiâ potius quam laſciviâ celebrant; The Chriſtians keep theſe ſolemnities for the Emperour in purity of conſcience, and not in
+<pb n="32" facs="tcp:125167:19"/>laſciviouſneſſe of behaviour.</hi> And afterward, ſpeaking of the wild demeanour of the Heathens upon <hi>ſuch</hi> dayes, <hi>grande videlicet oſſicium</hi> (ſaies he) <hi>they think they have done a great matter by benefires, and prof<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding<g ref="char:punc">▪</g>
+               </hi> &amp;c. <hi>and then after that ſlo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> together unto many inordinate, and filthy actions, and injuries of others. S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccine exprimitur publicum gaudium, per publicum dede<g ref="char:EOLhyphen"/>cus? Is it fit thus to expreſſe publique joy by publique l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wdneſſe?</hi> Thus much the <hi>Father</hi> clearly to the very point in hand.</p>
+            <p>I am moſtly jealous of them, who take themſelves to be <hi>more</hi> his Maje<g ref="char:EOLhyphen"/>ſties freinds, or to have been <hi>longer</hi> ſo than others: And therefore can<g ref="char:EOLhyphen"/>not but preſſe this point the more earneſtly: Let it not be ſaid of any of us (as of thoſe Heathens) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Majeſtas,</hi>
+               <note place="margin">
+                  <hi>Tertal. Apol.</hi> 6.35.</note> 
+               <hi>&amp; Divinitas coaſtrupratur, laudantibus vobis: That God in his glory, and the King in his honour do ſuf<g ref="char:EOLhyphen"/>fer by any diſorderly rejoycings of ours.</hi>
+            </p>
+            <p>The <hi>Paſſion</hi> of joy, is a <hi>dil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting</hi> Paſſion: the <hi>spirits</hi> in it are ſcatter<g ref="char:EOLhyphen"/>ed, and diffuſed; as we ſee by the <hi>motions</hi> of the lips in laughter, and of ſome other parts that are fill'd with <hi>ſpirits;</hi> from whence proceed <hi>ridicu<g ref="char:EOLhyphen"/>lous</hi> and <hi>mimi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all</hi> actions, which are avoyded by the <hi>contraction</hi> of the <hi>ſpirits.</hi> Be <hi>maſters</hi> then of your <hi>ſpirits.</hi> Publique civill teſtimonies of <hi>joy</hi> and <hi>rejoycing</hi> are not to be denyed unto men: reaſon and examples ap<g ref="char:EOLhyphen"/>prove and allow it: but the danger is, in falling into extreams.</p>
+            <p>Therefore take <hi>both</hi> his Majeſties <hi>Proclamations</hi> in your hands; let the one be a <hi>Canon</hi> and a <hi>rule</hi> for your demeanour in the t'other: <hi>that againſt v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tious, and debauch'd Perſons,</hi> your <hi>rule</hi> for giving obedience to that which hath <hi>appointed this for a day of Thankſgiving, and holy rejoycing unto God. Praiſe,</hi> the <hi>Pſalmiſt</hi> tels us, <hi>is comely;</hi> and no <hi>uncomely</hi> action muſt be ſeen in it: if ſomething ſlips out, that ſorts not with <hi>grave</hi> men; yet ſet a <hi>ſurer watch</hi> over all that misbecomes a <hi>Chriſtian</hi> man.</p>
+            <p>I had almoſt forgot one thing. You know <hi>this</hi> day we are to <hi>ſolemnize</hi> the <hi>poſiture</hi> of the <hi>corner-ſtone</hi> of our Church and State. Have ſome re<g ref="char:EOLhyphen"/>ſpect, I beſeech you, to the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>fortune</hi> of this <hi>ſtru<g ref="char:EOLhyphen"/>cture:</hi> do what you can to <hi>ſecure</hi> it againſt any <hi>evill accident,</hi> by your <hi>Chriſtian</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as I may ſpeak, and <hi>teleſmatical</hi> Charity. You know what the cuſtom is, when the <hi>firſt-ſtone</hi> of the <hi>Building</hi> is layd. I beſeech you purchaſe the <hi>prayers</hi> of the poor this day by your bounty, that <hi>their</hi> hearts alſo, may partake of the <hi>rejoycings</hi> of this day.</p>
+            <p>This is the way to have more cauſe of <hi>rejoycing;</hi> for <hi>ſuch rejoycing</hi> as this, God will accept; and in the company of this, he will receive our prayers, and will make us to <hi>rejoice</hi> in <hi>our</hi> King, and our King in <hi>us,</hi> and all of us to rejoyce in the Lord; who hath given us this day to <hi>rejoyce</hi> in. For which we humbly <hi>bleſſe</hi> and <hi>praiſe</hi> his holy name; beſeeching him to bleſſe our King to us, and to bleſſe us; us and all our Fellow Subjects unto our King; that being mutually happy in each other in this world, we may be eternally happy with each other in the world to come. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125167:19"/>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:125167:20"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+            <pb facs="tcp:125167:20"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Charles II</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
